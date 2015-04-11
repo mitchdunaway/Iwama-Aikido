@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=articles" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+			<h1>Budo - The Martial Way</h1>
+
+			<div>
+				<p>AIKIDO, as well as other BUDO (martial arts) including JUDO, KENDO,
+				KARATE-DO, etc., and disciplines such as CHA-DO (the tea ceremony) and
+				KA-DO (flower arranging), can be considered as paths up a mountain. A
+				person who reaches the top achieves SATORI (spiritual enlightenment). This
+				is the same goal as in ZEN meditation, which is another path up the
+				mountain.</p>
+
+				<p>The last Chinese character in the names of these disciplines is DO,
+				which means path or way. Thus, CHA-DO is the way of tea, etc. A person who
+				wants to climb the mountain has a choice of many paths. The particular path
+				chosen is a matter of personal preference.</p>
+
+				<p>The first character in BUDO is BU, which means martial. Thus, BUDO is
+				the martial way. BUDO was derived from BUSHIDO (the way of the warrior),
+				which was a code of conduct and honor for Japanese SAMURAI warriors during
+				the period of Japan's many civil wars. The physical training consisted of
+				battle proven techniques that were designed to kill the enemy as
+				efficiently as possible.</p>
+
+				<p>The BUSHIDO code was severe, and included SEPPUKU (ritual
+				disembowelment), also known as HARAKIRI, as means of negating dishonor.
+				Another element which was sometimes present in BUSHIDO was Zen or similar
+				meditation, the purpose of which was to enable the warrior to overcome the
+				fear of death and face battle with resignation.</p>
+
+				<p>BUSHIDO began to lose its primary purpose when the Tokugawa Shogunate
+				unified Japan in 1603 and brought the civil wars to an end. With the coming
+				of the Meji period in 1868, the Samurai were even prohibited from wearing
+				their swords.</p>
+
+				<p>Although the Samurai were free to practice their martial techniques, the
+				end goal of using them in war was no longer primary. Many varied schools of
+				swordsmanship and other martial arts sprung up all over the country.</p>
+
+				<p>In the earlier days, inter-school rivalries and individual desires for
+				reputation provided competitions including duels to the death. There were a
+				number of swordfighters wandering through Japan looking for matches who
+				were comparable to the gunfighters of the American Old West.</p>
+
+				<p>The Tokugawa period lasted over 250 years, during which Japan was
+				completely at peace. The practice of martial arts began to move away from
+				simple effectiveness toward an art form. The older concepts of BUSHIDO
+				began to evolve into BUDO, with the emphasis being on self-improvement and
+				using martial power to preserve peace.</p>
+
+				<p>The Chinese character for BU consists of two subcharacters, one of which
+				represents a halberd (symbolizing all weapons), and the other of which
+				means "stop". As such, the character for BU means to stop the use of
+				weapons, and thereby war. BUDO, the martial way, taken literally, is the
+				way of stopping war.</p>
+
+				<p>BUDO differs from other paths up the mountain in that the way consists
+				of learning and mastering martial techniques that were originally designed
+				to kill an enemy in battle. The practice of BUDO is more difficult than
+				BUSHIDO in that the techniques must be adapted to provide strenuous
+				physical conditioning without actually injuring training partners. This
+				must be accomplished without losing the effectiveness of the
+				techniques.</p>
+
+				<p>Fortunately, recent history has seen great martial artists such as
+				Jigoro Kano of Judo, Morihei Ueshiba of Aikido, Gichin Funakoshi of
+				Karate-do, just to name a few, who have achieved this goal and produced
+				martial art training systems that embody the goals of BUDO. Training
+				partners are able to push each other to their limits using strong power
+				which is effective to prevail in a violent engagement should it become
+				unavoidable, but without undue fear of injury.</p>
+
+				<p>The body leads the mind, in that a person feels proper execution of
+				technique with their body first, and later intellectualizes it so that he
+				or she can provide guidance for junior trainees. Hard training against
+				resistance is absolutely essential, as without it a trainee will never
+				learn what is effective and what is not.</p>
+
+				<p>Most people do not want to actually engage in war and kill others. In
+				this regard, BUDO provides the benefits of BUSHIDO with the negative
+				aspects (necessity to kill, fear of death, SEPPUKU, etc.) removed.</p>
+
+				<p>BUDO is a path up the mountain which provides TANREN (tempering) of the
+				mind, body and spirit, exciting physical engagement, practical self-defense
+				skills, and the camaraderie of others who are striving for the same
+				goals.</p>
+
+				<p>Achieving SATORI is very hard, requiring tremendous effort over many
+				years, and most people will not make it. Although reaching the top of the
+				mountain would be wonderful, it is the process or way which provides
+				enjoyment and benefit on a daily basis for those who take it.</p>
+			</div>
+	   </ouc:div>
+	</content>
+
+</page>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=media" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	      <h1>Demonstrations</h1>
+	         <h2>CLU Asian Cultural Festival Video: March 13th, 2003</h2>
+	         <p><a class="fancybox" href="#cluikkyo">Katate-dori Ikkyo</a></p>
+			<video controls="controls" id="cluikkyo" style="display:none;">
+			  <source src="/video/event/clu/cluikkyo.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/clu/cluikkyo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/clu/cluikkyo.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	         <p><a class="fancybox" href="#clutenchi">Ryote-dori Tenchi-nage</a></p>
+			<video controls="controls" id="clutenchi" style="display:none;">
+			  <source src="/video/event/clu/clutenchi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/clu/clutenchi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/clu/clutenchi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	         <p><a class="fancybox" href="#cluirimi">Katate-dori Irimi-nage</a></p>
+			<video controls="controls" id="cluirimi" style="display:none;">
+			  <source src="/video/event/clu/cluirimi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/clu/cluirimi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/clu/cluirimi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	         <p><a class="fancybox" href="#cluninin01">Ninindori Kokyu-nage</a></p>
+			<video controls="controls" id="cluninin01" style="display:none;">
+			  <source src="/video/event/clu/cluninin01.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/clu/cluninin01.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/clu/cluninin01.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	         <p><a class="fancybox" href="#clujodori01">Jo-tori</a></p>
+			<video controls="controls" id="clujodori01" style="display:none;">
+			  <source src="/video/event/clu/clujodori01.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/clu/clujodori01.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/clu/clujodori01.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	   </ouc:div>
+	</content>
+
+</page>

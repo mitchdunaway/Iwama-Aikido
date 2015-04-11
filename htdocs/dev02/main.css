@@ -1,0 +1,338 @@
+/* General and Reset
+------------------------*/
+body { 
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+a img { 
+	border-style: none;
+}
+
+table { 
+	margin-left: auto; 
+	margin-right: auto; 
+}
+
+
+
+/* Helper Classes
+------------------------*/
+div.center { 
+	text-align: center;
+}
+
+span.dlink { 
+	color: gray; 
+	text-decoration: underline;
+}
+
+span.announce { 
+	color: red; 
+	font-weight: bold; 
+	font-family: arial, sans-serif; 
+}
+
+span.red { 
+	color: red; 
+	font-weight: normal; 
+	font-family: arial, sans-serif; 
+	font-size: 0.8em;
+}
+
+span.title { 
+	font-size: 1.2em; 
+	font-weight: bold;  
+}
+
+div.styled {
+	width: 500px;
+	border: 2px dotted #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	color: red;
+	font-size: 1.1em;
+}
+
+/* Typography
+------------------------*/
+
+h1 {
+	margin: 0 0 .5em;
+}
+
+h3,
+h4 {
+	margin: 1em 0 0;
+}
+
+
+/* Header
+------------------------*/
+
+#main_header {
+	position: relative;	
+	height: 120px;
+	padding: 1em;
+}
+
+#header_logo {
+	position: absolute;
+	right: 0;
+	top: 0;	
+	width: 350px; 
+}
+
+/* Navigation
+------------------------*/
+
+#main_nav {
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666;
+	padding: 5px 0;
+	height: 52px;
+}
+
+#main_nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	
+}
+
+#main_nav ul li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	zoom: 1;
+	float: left;
+	position: relative;
+	width: 20%;
+}
+
+#main_nav ul li a {
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	margin: 1px;
+	background: #EEE;
+	height: 30px;
+	line-height: 1em;
+}
+
+#main_nav ul li:hover a {
+	background: #DDD;
+	
+}
+
+/* Drop Down Menus
+------------------------*/
+
+#main_nav ul.drop-down {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+}
+
+#main_nav ul li:hover ul.drop-down  {
+	display: block;
+}
+
+#main_nav ul.drop-down li {
+	float: none;
+	width: 100%;
+}
+
+#main_nav ul.drop-down li a {
+	padding: 6px 11px;
+	margin: 0;
+	background: #333;
+	color: #FFF;
+	height: auto;
+	font-size: 14px;
+	line-height: 1.2em;
+}
+		
+#main_nav ul.drop-down li a:hover {
+	background: #EEE;
+	color: #333;
+}
+
+/* Page Content
+------------------------*/
+
+#page_content {
+	padding: 2%;
+}
+
+#page_content.with-nav {
+	float: left;
+	width: 65%;	
+}
+
+
+/* Page Navigation
+------------------------*/
+
+#secondary_nav {
+	float: left;
+	width: 25%;
+	padding: 2%;
+}
+
+#secondary_nav li {
+	margin: 0 0 .7em;
+}
+
+/* Home Page Columns
+------------------------*/
+
+.hp-column {
+	float: left;
+	margin: 10px;
+	width: 30%;
+}
+
+/* Home Page Content
+------------------------*/
+
+#enroll_button {
+	font: bold 48px/1em "Arial Black", "Arial Bold", Gadget, sans-serif;
+	display: block;
+	padding: 10px;
+	margin: 10px;
+	-webkit-border-radius: 5px;    
+    border-radius: 5px;
+	background: #EEE;
+}
+
+#enroll_button:hover {
+	background: #DDD;	
+}
+
+.hp-button {	
+	font: bold 20px/1em Arial, "Helvetica Neue", Helvetica, sans-serif;
+	display: block;
+	padding: 10px;
+	margin: 10px;
+	-webkit-border-radius: 5px;    
+    border-radius: 5px;
+	background: #EEE;
+}
+
+.hp-button:hover {
+	background: #DDD;	
+}
+
+
+/* Media Page
+------------------------*/
+
+.thumbs {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.thumbs li {
+	padding: 0;
+	margin: 5px;
+	height: 70px;
+	width: 70px;
+	overflow: hidden;
+	float: left;
+	box-shadow: 0 0 3px #333;
+	text-align: center;
+	border: 2px solid #FFF;
+}
+
+
+
+/* Footer
+------------------------*/
+#main_footer {
+	clear: left;
+	margin: 10px;
+}
+
+
+/* Media Queries
+------------------------*/
+
+@media (max-width: 920px) {
+	
+	#main_header {	
+		height: auto;
+	}
+	
+	#header_logo {
+		position: static;
+		width: 90%;
+		max-width: 350px;
+	}	
+
+
+}
+
+@media (max-width: 700px) {	
+
+	.hp-column {
+		float: none;
+		margin: 1%;
+		width: 99%;
+	}
+
+}
+
+@media (max-width: 610px) {	
+
+	#secondary_nav {
+		display: none;
+	}
+
+	#page_content.with-nav {
+		width: 96%;
+	}
+
+}
+
+
+@media (max-width: 480px) {
+	
+	#main_nav {
+		height: auto;
+	}
+
+	#main_nav ul li {
+		width: 100%;
+		float: none;
+	
+			
+	}
+
+	#main_nav ul li a {
+		font-size: 16px;
+		margin: 1px 0;
+	}
+
+	#main_nav ul.drop-down {
+		display: block;
+		position: static;
+	}
+
+	#main_nav ul.drop-down li a {
+		padding: 6px 21px;
+		background: #EEE;
+		color: blue;
+	}
+
+}
+
+
+
+
+
+
+
+
+

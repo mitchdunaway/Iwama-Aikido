@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=media" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         
+			<h1>Taijutsu</h1>
+			<h2>Everyday Basics</h2>
+
+			<p><a class="fancybox" href="#taenohenko">Tai no Henko</a></p>
+
+			<video controls="controls" id="taenohenko" style="display:none;">
+			  <source src="/video/technique/taijutsu/taenohenko.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/taenohenko.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/taenohenko.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#kokyunage">Morote-dori Kokyu-nage</a></p>
+
+			<video controls="controls" id="kokyunage" style="display:none;">
+			  <source src="/video/technique/taijutsu/kokyunage.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/kokyunage.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/kokyunage.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#kokyuho">Suwari Kokyu-ho</a></p>
+
+			<video controls="controls" id="kokyuho" style="display:none;">
+			  <source src="/video/technique/taijutsu/kokyuho.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/kokyuho.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/kokyuho.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<h2>Ikkyo</h2>
+			<p><a class="fancybox" href="#ikkyo">Shomen-uchi Ikkyo, Omote Waza</a></p>
+			<video controls="controls" id="ikkyo" style="display:none;">
+			  <source src="/video/technique/taijutsu/ikkyo.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ikkyo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ikkyo.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+
+			<p><a class="fancybox" href="#ikkyoura">Shomen-uchi Ikkyo, Ura Waza</a></p>
+			<video controls="controls" id="ikkyoura" style="display:none;">
+			  <source src="/video/technique/taijutsu/ikkyoura.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ikkyoura.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ikkyoura.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#ikkyouralg">Shomen-uchi Ikkyo, Ura Waza (640x480)</a></p>
+			<video controls="controls" id="ikkyouralg" style="display:none;">
+			  <source src="/video/technique/taijutsu/ikkyouralg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ikkyouralg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ikkyouralg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#yokikom">Yokomen-uchi Ikkyo, Omote Waza</a></p>
+			<video controls="controls" id="yokikom" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokikom.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokikom.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokikom.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#yokikomlg">Yokomen-uchi Ikkyo, Omote Waza (640x360)</a></p>
+			<video controls="controls" id="yokikomlg" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokikomlg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokikomlg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokikomlg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#yokikura">Yokomen-uchi Ikkyo, Ura Waza</a></p>
+			<video controls="controls" id="yokikura" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokikura.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokikura.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokikura.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#yokikuralg">Yokomen-uchi Ikkyo, Ura Waza (640x360)</a></p>
+			<video controls="controls" id="yokikuralg" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokikuralg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokikuralg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokikuralg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#morikom">Morote-dori Ikkyo, Omote Waza</a></p>
+			<video controls="controls" id="morikom" style="display:none;">
+			  <source src="/video/technique/taijutsu/morikom.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/morikom.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/morikom.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#morikomlg">Morote-dori Ikkyo, Omote Waza (640x480)</a></p>
+			<video controls="controls" id="morikomlg" style="display:none;">
+			  <source src="/video/technique/taijutsu/morikomlg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/morikomlg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/morikomlg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#ryikom">Ryote-dori Ikkyo, Omote Waza</a></p>
+			<video controls="controls" id="ryikom" style="display:none;">
+			  <source src="/video/technique/taijutsu/ryikom.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ryikom.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ryikom.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#ryikomlg">Ryote-dori Ikkyo, Omote Waza (640x480)</a></p>
+			<video controls="controls" id="ryikomlg" style="display:none;">
+			  <source src="/video/technique/taijutsu/ryikomlg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ryikomlg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ryikomlg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+			<h2>Nikkyo</h2>
+			<p><a class="fancybox" href="#nikomote">Kata-dori Nikkyo, Omote Waza</a></p>
+			<video controls="controls" id="nikomote" style="display:none;">
+			  <source src="/video/technique/taijutsu/nikomote.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/nikomote.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/nikomote.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#nikomotelg">Kata-dori Nikkyo, Omote Waza (640x480)</a></p>
+			<video controls="controls" id="nikomotelg" style="display:none;">
+			  <source src="/video/technique/taijutsu/nikomotelg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/nikomotelg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/nikomotelg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#nikkyo">Kata-dori Nikkyo, Ura Waza</a></p>
+			<video controls="controls" id="nikkyo" style="display:none;">
+			  <source src="/video/technique/taijutsu/nikkyo.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/nikkyo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/nikkyo.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+
+			<p><a class="fancybox" href="#shonikom">Shomen-uchi Nikkyo, Omote Waza</a></p>
+			<video controls="controls" id="shonikom" style="display:none;">
+			  <source src="/video/technique/taijutsu/shonikom.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shonikom.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shonikom.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#shonikomlg">Shomen-uchi Nikkyo, Omote Waza (640x360)</a></p>
+			<video controls="controls" id="shonikomlg" style="display:none;">
+			  <source src="/video/technique/taijutsu/shonikomlg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shonikomlg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shonikomlg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#shonikura">Shomen-uchi Nikkyo, Ura Waza</a></p>
+			<video controls="controls" id="shonikura" style="display:none;">
+			  <source src="/video/technique/taijutsu/shonikura.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shonikura.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shonikura.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#shonikuralg">Shomen-uchi Nikkyo, Ura Waza (640x360)</a></p>
+			<video controls="controls" id="shonikuralg" style="display:none;">
+			  <source src="/video/technique/taijutsu/shonikuralg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shonikuralg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shonikuralg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#mornikkyo">Morote-dori Nikkyo</a></p>
+			<video controls="controls" id="mornikkyo" style="display:none;">
+			  <source src="/video/technique/taijutsu/mornikkyo.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/mornikkyo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/mornikkyo.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+
+
+			<h2>Sankyo</h2>
+			<p><a class="fancybox" href="#shosanom">Shomen-uchi Sankyo, Omote Waza</a></p>
+			<video controls="controls" id="shosanom" style="display:none;">
+			  <source src="/video/technique/taijutsu/shosanom.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shosanom.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shosanom.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#shosanomlg">Shomen-uchi Sankyo, Omote Waza (640x360)</a></p>
+			<video controls="controls" id="shosanomlg" style="display:none;">
+			  <source src="/video/technique/taijutsu/shosanomlg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shosanomlg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shosanomlg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#shosanura">Shomen-uchi Sankyo, Ura Waza</a></p>
+			<video controls="controls" id="shosanura" style="display:none;">
+			  <source src="/video/technique/taijutsu/shosanura.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shosanura.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shosanura.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#shosanuralg">Shomen-uchi Sankyo, Ura Waza (640x360)</a></p>
+			<video controls="controls" id="shosanuralg" style="display:none;">
+			  <source src="/video/technique/taijutsu/shosanuralg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shosanuralg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shosanuralg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+			<h2>Irimi-nage</h2>
+			<p><a class="fancybox" href="#iriminage">Shomen-uchi Irimi-nage</a></p>
+			<video controls="controls" id="iriminage" style="display:none;">
+			  <source src="/video/technique/taijutsu/iriminage.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/iriminage.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/iriminage.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+
+			<p><a class="fancybox" href="#yokirimi4">Yokomen-uchi Irimi-nage</a></p>
+			<video controls="controls" id="yokirimi4" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokirimi4.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokirimi4.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokirimi4.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#yokirimi4lg">Yokomen-uchi Irimi-nage (640x480)</a></p>
+			<video controls="controls" id="yokirimi4lg" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokirimi4lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokirimi4lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokirimi4lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#katateirimi">Katate-dori Irimi-nage</a></p>
+			<video controls="controls" id="katateirimi" style="display:none;">
+			  <source src="/video/technique/taijutsu/katateirimi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/katateirimi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/katateirimi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#katateirimilg">Katate-dori Irimi-nage (640x480)</a></p>
+			<video controls="controls" id="katateirimilg" style="display:none;">
+			  <source src="/video/technique/taijutsu/katateirimilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/katateirimilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/katateirimilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#ryirimi">Ryote-dori Irimi-nage</a></p>
+			<video controls="controls" id="ryirimi" style="display:none;">
+			  <source src="/video/technique/taijutsu/ryirimi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ryirimi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ryirimi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#ryirimilg">Ryote-dori Irimi-nage (640x480)</a></p>
+			<video controls="controls" id="ryirimilg" style="display:none;">
+			  <source src="/video/technique/taijutsu/ryirimilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ryirimilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ryirimilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+			<h2>Kaiten-nage</h2>
+			<p><a class="fancybox" href="#kaiten">Katate-dori Kaiten-nage, Ki-no-nagare</a></p>
+			<video controls="controls" id="kaiten" style="display:none;">
+			  <source src="/video/technique/taijutsu/kaiten.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/kaiten.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/kaiten.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+
+
+			<h2>Shiho-nage</h2>
+			<p><a class="fancybox" href="#shoshiom">Shomen-uchi Shiho-nage, Omote Waza</a></p>
+			<video controls="controls" id="shoshiom" style="display:none;">
+			  <source src="/video/technique/taijutsu/shoshiom.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shoshiom.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shoshiom.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#shoshiomlg">Shomen-uchi Shiho-nage, Omote Waza (640x480)</a></p>
+			<video controls="controls" id="shoshiomlg" style="display:none;">
+			  <source src="/video/technique/taijutsu/shoshiomlg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shoshiomlg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shoshiomlg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#yokshiom">Yokomen-uchi Shiho-nage, Omote Waza</a></p>
+			<video controls="controls" id="yokshiom" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokshiom.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokshiom.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokshiom.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#yokshiomlg">Yokomen-uchi Shiho-nage, Omote Waza (640x480)</a></p>
+			<video controls="controls" id="yokshiomlg" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokshiomlg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokshiomlg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokshiomlg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#yokshi">Yokomen-uchi Shiho-nage, Omote Waza - Alternate angle</a></p>
+			<video controls="controls" id="yokshi" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokshi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokshi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokshi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+			<p><a class="fancybox" href="#shiho_omote">Katate-dori Shiho-nage, Omote Waza</a></p>
+			<video controls="controls" id="shiho_omote" style="display:none;">
+			  <source src="/video/technique/taijutsu/shiho_omote.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shiho_omote.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shiho_omote.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+
+			<p><a class="fancybox" href="#shihoura">Katate-dori Shiho-nage, Ura Waza</a></p>
+			<video controls="controls" id="shihoura" style="display:none;">
+			  <source src="/video/technique/taijutsu/shihoura.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shihoura.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shihoura.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#shihouralg">Katate-dori Shiho-nage, Ura Waza (640x360)</a></p>
+			<video controls="controls" id="shihouralg" style="display:none;">
+			  <source src="/video/technique/taijutsu/shihouralg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shihouralg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shihouralg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#ryshiom">Ryote-dori Shiho-nage, Omote Waza</a></p>
+			<video controls="controls" id="ryshiom" style="display:none;">
+			  <source src="/video/technique/taijutsu/ryshiom.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ryshiom.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ryshiom.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#ryshiomlg">Ryote-dori Shiho-nage, Omote Waza (640x480)</a></p>
+			<video controls="controls" id="ryshiomlg" style="display:none;">
+			  <source src="/video/technique/taijutsu/ryshiomlg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ryshiomlg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ryshiomlg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<h2>Kokyu-nage</h2>
+			<p><a class="fancybox" href="#tsukikokyu">Tsuki Kokyu-nage</a></p>
+			<video controls="controls" id="tsukikokyu" style="display:none;">
+			  <source src="/video/technique/taijutsu/tsukikokyu.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/tsukikokyu.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/tsukikokyu.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#tsukikokyulg">Tsuki Kokyu-nage (640x480)</a></p>
+			<video controls="controls" id="tsukikokyulg" style="display:none;">
+			  <source src="/video/technique/taijutsu/tsukikokyulg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/tsukikokyulg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/tsukikokyulg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#yokokokyu">Yokomen-uchi Kokyu-nage</a></p>
+			<video controls="controls" id="yokokokyu" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokokokyu.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokokokyu.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokokokyu.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#yokokokyulg">Yokomen-uchi Kokyu-nage (640x480)</a></p>
+			<video controls="controls" id="yokokokyulg" style="display:none;">
+			  <source src="/video/technique/taijutsu/yokokokyulg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/yokokokyulg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/yokokokyulg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#maegeri">Mae-geri Kokyu-nage</a></p>
+			<video controls="controls" id="maegeri" style="display:none;">
+			  <source src="/video/technique/taijutsu/maegeri.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/maegeri.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/maegeri.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#maegerilg">Mae-geri Kokyu-nage (640x480)</a></p>
+			<video controls="controls" id="maegerilg" style="display:none;">
+			  <source src="/video/technique/taijutsu/maegerilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/maegerilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/maegerilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#katatekokyu">Katate-dori Kokyu-nage</a></p>
+			<video controls="controls" id="katatekokyu" style="display:none;">
+			  <source src="/video/technique/taijutsu/katatekokyu.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/katatekokyu.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/katatekokyu.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#katatekokyulg">Katate-dori Kokyu-nage (640x480)</a></p>
+			<video controls="controls" id="katatekokyulg" style="display:none;">
+			  <source src="/video/technique/taijutsu/katatekokyulg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/katatekokyulg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/katatekokyulg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+			<h2>Kote-gaeshi</h2>
+			<p><a class="fancybox" href="#shokote">Shomen-uchi Kote-gaeshi</a></p>
+			<video controls="controls" id="shokote" style="display:none;">
+			  <source src="/video/technique/taijutsu/shokote.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shokote.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shokote.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#shokotelg">Shomen-uchi Kote-gaeshi (640x480)</a></p>
+			<video controls="controls" id="shokotelg" style="display:none;">
+			  <source src="/video/technique/taijutsu/shokotelg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/shokotelg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/shokotelg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+			<p><a class="fancybox" href="#tsukikote">Mune-tsuki Kote-gaeshi</a></p>
+			<video controls="controls" id="tsukikote" style="display:none;">
+			  <source src="/video/technique/taijutsu/tsukikote.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/tsukikote.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/tsukikote.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#tsukikotelg">Mune-tsuki Kote-gaeshi (640x480)</a></p>
+			<video controls="controls" id="tsukikotelg" style="display:none;">
+			  <source src="/video/technique/taijutsu/tsukikotelg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/tsukikotelg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/tsukikotelg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+			<h2>Tenchi-nage</h2>
+			<p><a class="fancybox" href="#ryotenchi">Ryote-dori Tenchi-nage</a></p>
+			<video controls="controls" id="ryotenchi" style="display:none;">
+			  <source src="/video/technique/taijutsu/ryotenchi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ryotenchi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ryotenchi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#ryotenchilg">Ryote-dori Tenchi-nage (640x360)</a></p>
+			<video controls="controls" id="ryotenchilg" style="display:none;">
+			  <source src="/video/technique/taijutsu/ryotenchilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ryotenchilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ryotenchilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+			<h2>Misc.</h2>
+			<p><a class="fancybox" href="#ukemi">Ukemi</a></p>
+			<video controls="controls" id="ukemi" style="display:none;">
+			  <source src="/video/technique/taijutsu/ukemi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/ukemi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/ukemi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<h1>Tachi Waza</h1>
+			<p><a class="fancybox" href="#shomen">1st Bokken Suburi</a></p>
+			<video controls="controls" id="shomen" style="display:none;">
+			  <source src="/video/technique/tachi_waza/shomen.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/tachi_waza/shomen.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/tachi_waza/shomen.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+			<p><a class="fancybox" href="#2suburi">2nd Bokken Suburi</a></p>
+			<video controls="controls" id="2suburi" style="display:none;">
+			  <source src="/video/technique/tachi_waza/2suburi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/tachi_waza/2suburi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/tachi_waza/2suburi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+			<p><a class="fancybox" href="#4suburi">4th Bokken Suburi</a></p>
+			<video controls="controls" id="4suburi" style="display:none;">
+			  <source src="/video/technique/tachi_waza/4suburi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/tachi_waza/4suburi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/tachi_waza/4suburi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+			<p><a class="fancybox" href="#5suburi">5th Bokken Suburi</a></p>
+			<video controls="controls" id="5suburi" style="display:none;">
+			  <source src="/video/technique/tachi_waza/5suburi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/tachi_waza/5suburi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/tachi_waza/5suburi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+			<p><a class="fancybox" href="#7suburi">7th Bokken Suburi</a></p>
+			<video controls="controls" id="7suburi" style="display:none;">
+			  <source src="/video/technique/tachi_waza/7suburi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/tachi_waza/7suburi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/tachi_waza/7suburi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<h2>Jo Waza</h2>
+
+			<p><a class="fancybox" href="#jo1">Choku-tsuki</a></p>
+			<video controls="controls" id="jo1" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo1.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo1.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo1.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo1lg">Choku-tsuki (640x480)</a></p>
+			<video controls="controls" id="jo1lg" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo1lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo1lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo1lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo2">Kaeshi-tsuki</a></p>
+			<video controls="controls" id="jo2" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo2.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo2.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo2.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo2lg">Kaeshi-tsuki (640x480)</a></p>
+			<video controls="controls" id="jo2lg" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo2lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo2lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo2lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo3">Ushiro-tsuki</a></p>
+			<video controls="controls" id="jo3" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo3.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo3.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo3.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo3lg">Ushiro-tsuki (640x480)</a></p>
+			<video controls="controls" id="jo3lg" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo3lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo3lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo3lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo4">Tsuki, Gedan-gaeshi</a></p>
+			<video controls="controls" id="jo4" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo4.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo4.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo4.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo4lg">Tsuki, Gedan-gaeshi (640x480)</a></p>
+			<video controls="controls" id="jo4lg" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo4lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo4lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo4lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo5">Tsuki, Jodan-gaeshi</a></p>
+			<video controls="controls" id="jo5" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo5.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo5.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo5.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#jo5lg">Tsuki, Jodan-gaeshi (640x480)</a></p>
+			<video controls="controls" id="jo5lg" style="display:none;">
+			  <source src="/video/technique/jo_waza/jo5lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/jo5lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/jo5lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#5kumijo">The 5th Kumijo</a></p>
+			<video controls="controls" id="5kumijo" style="display:none;">
+			  <source src="/video/technique/jo_waza/5kumijo.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/jo_waza/5kumijo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/jo_waza/5kumijo.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	   </ouc:div>
+	</content>
+
+</page>

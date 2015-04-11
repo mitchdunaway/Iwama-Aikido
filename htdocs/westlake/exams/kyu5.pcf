@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/westlake.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+
+
+<h1>5th Kyu Testing Requirements</h1>
+
+<ol>
+	<li>Shomen-uchi Ikkyo (omote and ura): overhead strike, first teaching (front and back) <a href="/movies/ikkyo.mov">View Omote</a>, <a href="/movies/ikkyouralg.mov">View Ura</a>
+	</li>
+
+	<li>Kata-dori Nikkyo (omote and ura): shoulder held, second teaching (front and back) <a href="/movies/nikomotelg.mov">View Omote</a>, <a href="/movies/nikkyo.mov">View Ura</a>
+	</li>
+
+	<li>Katate-dori Shiho-nage (omote and ura): one hand held, four way throw (front and back) <a href="/movies/shiho_omote.mov">View Omote</a>, <a href="/movies/shihouralg.mov">View Ura</a>
+	</li>
+
+	<li>Mune-tsuki Kote-gaeshi: strike to chest, wrist return <a href="/movies/tsukikotelg.mov">View Technique</a>
+	</li>
+
+	<li>Katate-dori Irimi-nage: one hand held, entering throw <a href="/movies/katateirimilg.mov">View Technique</a>
+	</li>
+
+	<li>Ryote-dori Tenchi-nage: two hands held, heaven and earth throw <a href="/movies/ryotenchilg.mov">View Technique</a>
+	</li>
+
+	<li>Morote-dori Kokyu-nage: one hand held by two hands, abdominal breath throw <a href="/movies/kokyunage.mov">View Technique</a>
+	</li>
+
+	<li>Ken Suburi (1-7): sword individual exercises (1-7)
+
+		<ol class="a">
+			<li>
+				<a href="/movies/shomen.mov">View #1</a>
+			</li>
+
+			<li>
+				<a href="/movies/sensei/2suburilg.mov">View #2</a>
+			</li>
+
+			<li>
+				<a href="/movies/sensei/3suburilg.mov">View #3</a>
+			</li>
+
+			<li>
+				<a href="/movies/4suburi.mov">View #4</a>
+			</li>
+
+			<li>
+				<a href="/movies/5suburi.mov">View #5</a>
+			</li>
+
+			<li>
+				<a href="/movies/7suburi.mov">View #7</a>
+			</li>
+		</ol>
+	</li>
+
+	<li>Jo Suburi (1-5): staff individual exercises (1-5)
+
+		<ol class="a">
+			<li>Choku-tsuki: straight thrust <a href="/movies/jo1lg.mov">View Technique</a>
+			</li>
+
+			<li>Kaeshi-tsuki: return thrust <a href="/movies/jo2lg.mov">View Technique</a>
+			</li>
+
+			<li>Ushiro-tsuki: rear thrust <a href="/movies/jo3lg.mov">View Technique</a>
+			</li>
+
+			<li>Tsuki, Gedan-gaeshi: thrust, low return <a href="/movies/jo4lg.mov">View Technique</a>
+			</li>
+
+			<li>Tsuki, Jodan-gaeshi: thrust, high return <a href="/movies/jo5lg.mov">View Technique</a>
+			</li>
+		</ol>
+	</li>
+</ol>
+
+	   </ouc:div>
+	</content>
+
+</page>

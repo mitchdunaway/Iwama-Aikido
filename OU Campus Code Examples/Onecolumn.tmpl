@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pcf-stylesheet path="/_resources/xsl/default.xsl" extension="html"?>
+<?pcf-stylesheet path="/_resources/xsl/page2pdf.xsl" extension="pdf" alternate="yes" title="PDF"?>
+<!DOCTYPE document SYSTEM "http://commons.omniupdate.com/dtd/standard.dtd">
+
+<document>
+
+	<config>
+
+<parameter name="pagetype" type="select" group="Everyone" prompt="Page Type" alt="Please choose a appropriate page type">
+<option value="article" selected="false">Article</option>
+<option value="content" selected="false">Content</option>
+<option value="onecolumn" selected="true">One Column</option>
+</parameter>
+
+<!-- com.omniupdate.properties -->
+<parameter name="keywords" prompt="Keywords" type="checkbox" alt="Pick select the appropriate keywords for the page">
+<!--%echo var="keywords" encoding="none" -->
+</parameter>
+<!-- /com.omniupdate.properties -->
+
+</config>
+
+<metadata>
+<!-- com.omniupdate.properties -->
+<meta name="Description" content="<!--%echo var="description" -->" />
+<meta name="Author" content="<!--%echo var="author" -->" />
+<meta name="Keywords" content="" />
+<!-- /com.omniupdate.properties -->
+</metadata>
+
+
+<!-- com.omniupdate.properties -->
+  <title><!--%echo var="title" --></title>
+<!-- /com.omniupdate.properties -->
+
+<content>
+ <!-- com.omniupdate.div label="twocolumn_content" group="Everyone" button="700" break="break" -->
+ <!-- com.omniupdate.editor csspath="/_resources/ou/editor/onecolumn.css" cssmenu="/_resources/ou/editor/styles.txt" width="1050" -->
+ <h2 class="h-color-link"><!--%echo var="title" --></h2>
+<!-- /com.omniupdate.div -->
+ </content>
+
+ </document>

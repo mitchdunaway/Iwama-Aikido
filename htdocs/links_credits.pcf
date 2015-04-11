@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         <h1>Credits</h1>
+
+<p>Westlake Village Aikido logo by <a href="http://ink5000.freeservers.com/">Scott Cattanach</a></p>
+
+<p>Website generously hosted by <a href="http://yves.lempereur.name/">Yves Lempereur</a> of <a href="http://omniupdate.com/">OmniUpdate</a></p>
+
+<p>Website design/development by <a href="http://www.iconkraft.com/">Mitch Dunaway</a></p>
+
+<hr />
+
+<h1>Links</h1>
+
+<p><a href="http://www.aikidojournal.com/">Aikido Journal</a> is the best place for general Aikido information and materials (DVDs, books, etc). Run by Stan Pranin Sensei, it started as the best Aikido magazine in print but has since evolved into a strictly online resource.</p>
+
+<p><a href="http://www.aikiweb.com/">Aikiweb</a> is a good Aikido information site and includes a very convenient dojo finder.</p>
+
+<p><a href="http://www.nononsenseselfdefense.com/index.html">No Nonsense Self-Defense</a> is a site run by Marc "Animal" MacYoung. Marc "Animal" MacYoung is one of the most knowledgeable martial artists in the world. This site is an amazing martial arts/awareness/fighting resource. You can learn more from this website than you can from most martial arts classes. Marc "Animal" MacYoung is also the author of many valuable self-defense books which can be purchased from most major online bookstores. I highly recommend all of them.</p>
+
+<p><a href="http://www.takemusu.org/">Takemusu Aikido Association</a>. Austin Iwama Aikido is a member of the Takemusu Aikido Association.</p>
+
+<p><a href="http://takemusu.org/patsensei/ss/index.html">Saito Shihan Tribute Site</a></p>
+
+<p><a href="http://www.kogainst.com/">Koga Institute</a></p>
+
+<p><a href="http://www.iwamaaikido.com/en/">Iwama Shin-shin Aiki-shuren-kai (Hitohiro Saito - Iwama, Japan)</a></p>
+
+<p><a href="http://www.aikido-shuren-dojo.com/homepage.aspx">Minnesota Aiki Shuren Dojo</a></p>
+
+<p><a href="http://www.goteborgs-aikidoklubb.org/">Gothenburg Aikido Dojo</a></p>
+
+<p><a href="http://www.aikidoinn.com/">Aikido in Fredericksburg</a></p>
+
+<p><a href="http://www.aikidoatthecenter.org/">Aikido at the Center</a></p>
+
+<p><a href="http://www.angelfire.com/nj/TakemusuAikiDojo/">Takemusu Aiki Dojo</a></p>
+
+<p><a href="http://www.renoaikido.org/">Aikido of Reno</a></p>
+
+<p><a href="http://www.aikidoofsiliconvalley.com/">Aikido Silicon Valley</a></p>
+
+<p><a href="http://www.baymarinaikido.com/">Bay Marin Aikido</a></p>
+
+<p><a href="http://www.aikidooffresno.com/">Aikido of Fresno</a></p>
+
+<p><a href="http://www.aikidoinstitute.org/">Aikido Institute</a></p>
+
+<p><a href="http://www.traditional-aikido.com/">Traditional Aikido of Sonoma</a></p>
+
+<p><a href="http://aikido-france.net/">Aikido Iwama Ryu Europe</a> lists many Iwama Ryu websites for dojos located throughout Europe.</p>
+
+<p><a href="http://www.isoyamaaikido.com/">Isoyama American Aikido Academy</a></p>
+
+	   </ouc:div>
+	</content>
+
+</page>

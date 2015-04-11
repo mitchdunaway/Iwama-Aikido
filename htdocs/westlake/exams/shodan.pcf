@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/westlake.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         <h1>Shodan Testing Requirements</h1>
+
+	         <ol>
+	         	<li>Katate-dori Shiho-nage (1-4)</li>
+
+	         	<li>Yokomen-uchi Irimi-nage (ki-no-nagare) - <em>Austin Iwama Aikido only</em></li>
+
+	         	<li>Kaeshi-waza
+
+	         		<ol type="a">
+	         			<li>Ikkyo ni Ikkyo (ichi dan kai)</li>
+
+	         			<li>Ikkyo ni Ikkyo (ni dan kai)</li>
+
+	         			<li>Ikkyo ni Ikkyo (san dan kai)</li>
+
+	         			<li>Ikkyo ni Nikkyo</li>
+
+	         			<li>Ikkyo ni Nikkyo (hantai)</li>
+
+	         			<li>Ikkyo ni Kote-gaeshi</li>
+
+	         			<li>Ikkyo ni Shiho-nage</li>
+
+	         			<li>Ikkyo ni Irimi-nage</li>
+
+	         			<li>Ikkyo ni Koshi-nage</li>
+
+	         			<li>Ikkyo ni Ushiro-nagare</li>
+
+	         			<li>Ikkyo ni Ikkyo (ushiro-nagare)</li>
+
+	         			<li>Ikkyo ni Kokyu-nage</li>
+
+	         			<li>Nikkyo ni Sankyo</li>
+
+	         			<li>Nikkyo ni Irimi-nage</li>
+
+	         			<li>Kote-gaeshi ni Sankyo</li>
+
+	         			<li>Kote-gaeshi ni Ikkyo (hiji)</li>
+
+	         			<li>Irimi-nage ni Sumi-otoshi</li>
+
+	         			<li>Irimi-nage ni Koshi-nage</li>
+
+	         			<li>Shiho-nage ni Shiho-nage</li>
+
+	         			<li>Kaiten-nage ni Kokyu-nage</li>
+	         		</ol>
+	         	</li>
+
+	         	<li>Jiyu-waza (san-nin-no-kogeki)</li>
+
+	         	<li>Ken-no-Riai
+
+	         		<ol type="a">
+	         			<li>Shiho-nage (omote)</li>
+
+	         			<li>Shiho-nage (ura)</li>
+
+	         			<li>Kote-gaeshi</li>
+	         		</ol>
+	         	</li>
+
+	         	<li>Ken-Tai-Jo Tai-sabaki
+
+	         		<ol type="a">
+	         			<li>Choku-barai</li>
+
+	         			<li>Kaeshi-barai</li>
+
+	         			<li>Kaiten-barai</li>
+	         		</ol>
+	         	</li>
+
+	         	<li>Ken-tai-jo (1-6, naganai and nageru)</li>
+	         </ol>
+	   </ouc:div>
+	</content>
+
+</page>

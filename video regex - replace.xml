@@ -1,0 +1,334 @@
+<P><A href="movies/([^.]*).mov">([^<]*)</A>( or <A href="movies/([^.]*).mov">\((\d{3})x(\d{3})\)</A>)?( or <A href="movies/([^.]*).mov">([^<]*)</A>)?</P>
+
+
+
+
+
+			<p><a class="fancybox" href="#$1">$2</a></p>
+			<video controls="controls" id="$1" style="display:none;">
+			  <source src="/video/technique/taijutsu/$1.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/$1.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/$1.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#$4">$2 ($5x$6)</a></p>
+			<video controls="controls" id="$4" style="display:none;">
+			  <source src="/video/technique/taijutsu/$4.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/$4.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/$4.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#$8">$2 - $9</a></p>
+			<video controls="controls" id="$8" style="display:none;">
+			  <source src="/video/technique/taijutsu/$8.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/taijutsu/$8.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/taijutsu/$8.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+
+
+1: $1\n 2: $2\n 3: $3\n 4: $4\n 5: $5\n 6: $6\n 7: $7\n 8: $8\n 9: $9\n 
+
+			<h2>Ikkyo</h2>
+			1: ikkyo
+ 2: Shomen-uchi Ikkyo, Omote Waza
+ 3: 
+ 4: 
+ 5: 
+ 6: 
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: ikkyoura
+ 2: Shomen-uchi Ikkyo, Ura Waza
+ 3:  or <A href="movies/ikkyouralg.mov">(640x480)</A>
+ 4: ikkyouralg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: yokikom
+ 2: Yokomen-uchi Ikkyo, Omote Waza
+ 3:  or <A href="movies/yokikomlg.mov">(640x360)</A>
+ 4: yokikomlg
+ 5: 640
+ 6: 360
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: yokikura
+ 2: Yokomen-uchi Ikkyo, Ura Waza
+ 3:  or <A href="movies/yokikuralg.mov">(640x360)</A>
+ 4: yokikuralg
+ 5: 640
+ 6: 360
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: morikom
+ 2: Morote-dori Ikkyo, Omote Waza
+ 3:  or <A href="movies/morikomlg.mov">(640x480)</A>
+ 4: morikomlg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: ryikom
+ 2: Ryote-dori Ikkyo, Omote Waza
+ 3:  or <A href="movies/ryikomlg.mov">(640x480)</A>
+ 4: ryikomlg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+
+			<h2>Nikkyo</h2>
+			1: nikomote
+ 2: Kata-dori Nikkyo, Omote Waza
+ 3:  or <A href="movies/nikomotelg.mov">(640x480)</A>
+ 4: nikomotelg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: nikkyo
+ 2: Kata-dori Nikkyo, Ura Waza
+ 3: 
+ 4: 
+ 5: 
+ 6: 
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: shonikom
+ 2: Shomen-uchi Nikkyo, Omote Waza
+ 3:  or <A href="movies/shonikomlg.mov">(640x360)</A>
+ 4: shonikomlg
+ 5: 640
+ 6: 360
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: shonikura
+ 2: Shomen-uchi Nikkyo, Ura Waza
+ 3:  or <A href="movies/shonikuralg.mov">(640x360)</A>
+ 4: shonikuralg
+ 5: 640
+ 6: 360
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: mornikkyo
+ 2: Morote-dori Nikkyo
+ 3: 
+ 4: 
+ 5: 
+ 6: 
+ 7: 
+ 8: 
+ 9: 
+ 
+
+			<h2>Sankyo</h2>
+			1: shosanom
+ 2: Shomen-uchi Sankyo, Omote Waza
+ 3:  or <A href="movies/shosanomlg.mov">(640x360)</A>
+ 4: shosanomlg
+ 5: 640
+ 6: 360
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: shosanura
+ 2: Shomen-uchi Sankyo, Ura Waza
+ 3:  or <A href="movies/shosanuralg.mov">(640x360)</A>
+ 4: shosanuralg
+ 5: 640
+ 6: 360
+ 7: 
+ 8: 
+ 9: 
+ 
+
+			<h2>Irimi-nage</h2>
+			1: iriminage
+ 2: Shomen-uchi Irimi-nage
+ 3: 
+ 4: 
+ 5: 
+ 6: 
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: yokirimi4
+ 2: Yokomen-uchi Irimi-nage
+ 3:  or <A href="movies/yokirimi4lg.mov">(640x480)</A>
+ 4: yokirimi4lg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: katateirimi
+ 2: Katate-dori Irimi-nage
+ 3:  or <A href="movies/katateirimilg.mov">(640x480)</A>
+ 4: katateirimilg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: ryirimi
+ 2: Ryote-dori Irimi-nage
+ 3:  or <A href="movies/ryirimilg.mov">(640x480)</A>
+ 4: ryirimilg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+
+			<h2>Kaiten-nage</h2>
+			1: kaiten
+ 2: Katate-dori Kaiten-nage, Ki-no-nagare
+ 3: 
+ 4: 
+ 5: 
+ 6: 
+ 7: 
+ 8: 
+ 9: 
+ 
+
+			<h2>Shiho-nage</h2>
+			1: shoshiom
+ 2: Shomen-uchi Shiho-nage, Omote Waza
+ 3:  or <A href="movies/shoshiomlg.mov">(640x480)</A>
+ 4: shoshiomlg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+1: yokshiom
+ 2: Yokomen-uchi Shiho-nage, Omote Waza
+ 3:  or <A href="movies/yokshiomlg.mov">(640x480)</A>
+ 4: yokshiomlg
+ 5: 640
+ 6: 480
+ 7:  or <A href="movies/yokshi.mov">Alternate angle</A>
+ 8: yokshi
+ 9: Alternate angle
+ 
+			1: shiho_omote
+ 2: Katate-dori Shiho-nage, Omote Waza
+ 3: 
+ 4: 
+ 5: 
+ 6: 
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: shihoura
+ 2: Katate-dori Shiho-nage, Ura Waza
+ 3:  or <A href="movies/shihouralg.mov">(640x360)</A>
+ 4: shihouralg
+ 5: 640
+ 6: 360
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: ryshiom
+ 2: Ryote-dori Shiho-nage, Omote Waza
+ 3:  or <A href="movies/ryshiomlg.mov">(640x480)</A>
+ 4: ryshiomlg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ </P>
+
+			<h2>Kokyu-nage</h2>
+			1: tsukikokyu
+ 2: Tsuki Kokyu-nage
+ 3:  or <A href="movies/tsukikokyulg.mov">(640x480)</A>
+ 4: tsukikokyulg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: yokokokyu
+ 2: Yokomen-uchi Kokyu-nage
+ 3:  or <A href="movies/yokokokyulg.mov">(640x480)</A>
+ 4: yokokokyulg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: maegeri
+ 2: Mae-geri Kokyu-nage
+ 3:  or <A href="movies/maegerilg.mov">(640x480)</A>
+ 4: maegerilg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+			1: katatekokyu
+ 2: Katate-dori Kokyu-nage
+ 3:  or <A href="movies/katatekokyulg.mov">(640x480)</A>
+ 4: katatekokyulg
+ 5: 640
+ 6: 480
+ 7: 
+ 8: 
+ 9: 
+ 
+
+			<h2>Kote-gaeshi</h2>
+			<P><A href="movies/shokote.mov">Shomen-uchi Kote-gaeshi</A>&nbsp;or <A href="movies/shokotelg.mov">(640x480)</A></P>
+			<P><A href="movies/tsukikote.mov">Mune-tsuki Kote-gaeshi</A>&nbsp;or <A href="movies/tsukikotelg.mov">(640x480)</A></P>
+
+			<h2>Tenchi-nage</h2>
+			<P><A href="movies/ryotenchi.mov">Ryote-dori Tenchi-nage</A>&nbsp;or <A href="movies/ryotenchilg.mov">(640x360)</A></P>
+
+			<h2>Misc.</h2>
+			1: ukemi
+ 2: Ukemi
+ 3: 
+ 4: 
+ 5: 
+ 6: 
+ 7: 
+ 8: 
+ 9: 
+ 

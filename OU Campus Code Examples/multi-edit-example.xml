@@ -1,0 +1,76 @@
+<div style="float:right;font-size:10px;padding:5px;margin:5px;">
+
+<!-- com.omniupdate.div label="photo" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="image" prompt="Photo" alt="Choose a photo." path="/faculty/images/" lockout="yes" -->
+<img src="/faculty/images/gharris.jpg" alt="Greg C. Harris"> 
+<!-- /com.omniupdate.div --><br>
+		     
+Office: <!-- com.omniupdate.div label="office" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="text" prompt="Office Phone" alt="Enter your office phone number." -->(555) 555-5555
+<!-- /com.omniupdate.div --><br>
+		      
+Fax: <!-- com.omniupdate.div label="fax" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="text" prompt="Fax" alt="Enter your fax number." -->
+(555) 555-5556
+<!-- /com.omniupdate.div --><br>
+		      
+Mobile: <!-- com.omniupdate.div label="mobile" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="text" prompt="Mobile Phone" alt="Enter your mobile phone number." -->(555) 555-5557<!-- /com.omniupdate.div --><br>
+<!-- com.omniupdate.div label="ocation" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="text" prompt="Office Location" alt="Enter your office location." -->
+Lecture Hall 311
+<!-- /com.omniupdate.div --><br>
+		      
+Office Hours: <!-- com.omniupdate.div label="days" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="checkbox" prompt="Office Days" alt="Enter your office hours." options="Monday:M;Tuesday:T;Wednesday:W;Thursday:Th;Friday:F;" -->
+M,W
+<!-- /com.omniupdate.div -->
+, 
+<!-- com.omniupdate.div label="hours_start" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="select" prompt="Office Hours Start" alt="Enter your office hours start time." options="8am:8am;9am:9am;10am:10am;11am:11am;12pm:12pm;1pm:1pm;2pm:2pm;3pm:3pm;4pm:4pm;" -->
+2pm
+<!-- /com.omniupdate.div -->
+ - 
+<!-- com.omniupdate.div label="hours_end" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="select" prompt="Office Hours End" alt="Enter your office hours end time." options="9am:9am;10am:10am;11am:11am;12pm:12pm;1pm:1pm;2pm:2pm;3pm:3pm;4pm:4pm;5pm:5pm;" -->
+3pm
+<!-- /com.omniupdate.div --><br>
+		      
+Email: <!-- com.omniupdate.div label="email" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="text" prompt="Email" alt="Enter your email address." -->
+greg@college.edu
+<!-- /com.omniupdate.div --><br>
+</div>
+
+<h3>
+<!-- com.omniupdate.div label="name" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="text" prompt="Name" alt="Enter your name." -->
+Greg C. Harris
+<!-- /com.omniupdate.div -->
+, 
+<i><!-- com.omniupdate.div label="title" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="text" prompt="Title" alt="Enter your title." -->
+Professor of Chemistry and Microbiology<!-- /com.omniupdate.div --></i>
+</h3>
+<b><!-- com.omniupdate.div label="education" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="text" prompt="Education" alt="Enter your education information." -->
+Arizona State University, Ph.D., Chemistry
+<!-- /com.omniupdate.div --></b><br>
+
+<h4>Biography</h4>
+<!-- com.omniupdate.div label="biography" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="textarea" prompt="Biography" alt="Enter a short biography." rows="15" editor="yes" -->
+<p>Director for the Gallena Center for Distance Education. Dr. Harris is also the Director of <strong>Chemical Technology</strong> at Gallena University. Prior to these positions, Dr. Harris taught chemistry at Arizona State for over 10 years. Before coming to Gallena, He has been the Associate Manager for the Gallena Link-to Learn Initiative and has served as the director or co-director of numerous grant projects related to technology.
+</p>
+<!-- /com.omniupdate.div -->
+
+<h4>Publications</h4>
+<!-- com.omniupdate.div label="publications" group="Everyone" button="hide" -->
+<!-- com.omniupdate.multiedit type="textarea" prompt="Publications" alt="Add or edit the list of publications." rows="15" editor="yes" -->
+<ul>
+<li>Harris, Greg C. and John Sampson. "Gian Chloroplast Isolation." Macrochemical Journal. 41(1-2), 875-350 (2008).
+</li>
+<li>Harris, Greg C., Ben J. Tom and Greg P. Moore. "Determination of the Photochemical Absorption of the Lichen Using Photoacoustics." Photochemistry and Photobiology 39(2), 909-7195 (2008).
+</li>
+</ul>
+<!-- /com.omniupdate.div -->

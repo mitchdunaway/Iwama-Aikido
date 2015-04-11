@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/austin.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+
+			<h1>Austin Aikido Testing Requirements</h1>
+			<hr />
+			<p><strong><a href="/austin/exams/kyu5.html">5th Kyu (Gokyu)</a></strong> – Minimum three months and 24 classes from enrollment.  A bokken and jo must be purchased prior to the exam.</p>
+
+			<p><strong><a href="/austin/exams/kyu4.html">4th Kyu (Yonkyu)</a></strong> – Minimum six months and 48 classes from 5th kyu.</p>
+
+			<p><strong><a href="/austin/exams/kyu3.html">3rd Kyu (Sankyu)</a></strong> – Minimum six months and 48 classes from 4th kyu.</p>
+
+			<p><strong><a href="/austin/exams/kyu2.html">2nd Kyu (Nikyu)</a></strong> – Minimum six months and 72 classes from 3rd kyu.</p>
+
+			<p><strong><a href="/austin/exams/kyu1.html">1st Kyu (Ikkyu)</a></strong> – Minimum nine months and 108 classes from 2nd kyu.</p>
+
+			<p><strong><a href="/austin/exams/shodan.html">1st Dan (Shodan)</a></strong> – Minimum one year and 144 classes from 1st kyu.</p>
+
+			<p><strong>2nd Dan (Nidan)</strong> – Minimum one year and TBD classes from Shodan.</p>
+
+			 
+			<div style="font-size: smaller;">
+				<p>Note: These are only the minimum testing requirements.  Only when these requirements are met will the Dojo-Cho begin to look at a student for promotion.  Each person must progress at his or her own pace.  No student should ever expect to test by a certain time.</p>
+			</div>
+
+	   </ouc:div>
+	</content>
+
+</page>

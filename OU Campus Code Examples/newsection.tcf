@@ -1,0 +1,30 @@
+<title>New Folder With Web Pages - New Section</title>
+
+<variable-list>
+
+<variable name="dirname" prompt="Actual Folder Name: (no spaces or punctuation!)" alt="DO NOT USE SPACES OR PUNCTUATION! This is the actual name of the folder you are creating."></variable>  
+
+<variable name="subtitle" prompt="Section Title" alt="Give your new section a &quot;Friendly Name&quot; (Used in title, etc)."></variable>
+
+</variable-list>
+
+<template-list>
+
+<template prompt-prefix="Home Page" filename="index" extension="shtml"
+display-filename="no" overwrite="no" display-overwrite="yes"
+group="everyone" display-destination="no" destination="{dirname}"
+force-destination="yes" preferred-redirect="yes">newpage.tmpl</template>
+
+<template prompt-prefix="Side Navigation" filename="z-leftnavigation"
+extension="html" display-filename="no" overwrite="no"
+display-overwrite="yes" group="z-sidenaveditors" display-group="no"
+display-destination="no" destination="{dirname}" publish="yes"
+force-destination="yes" toolbar="leftnavigation">z-leftnavigation.tmpl</template>
+
+<template prompt-prefix="Bread Crumb" filename="z-breadcrumb"
+extension="html" display-filename="no" overwrite="no"
+display-overwrite="yes" group="z-breadcrumbeditors" display-group="no"
+display-destination="no" destination="{dirname}" publish="yes"
+force-destination="yes" toolbar="leftnavigation">z-breadcrumb.tmpl</template>
+
+</template-list>

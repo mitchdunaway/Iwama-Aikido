@@ -1,0 +1,26 @@
+I envision three separate sub sites
+1) Iwama Aikido Main, information about Iwama Aikido
+2) Austin dojo
+3) Westlake dojo
+The naked domain would point to the information page
+iwama-aikido.com -> www.iwama-aikido.com
+westlake.iwama-aikido.com
+austin.iwama-aikido.com
+
+each site would have different header and navigation, but would otherwise be identical in layout and formatting
+each site would house information specific only to itself
+main navigation on each site would have links directly into the other sites (separation of IA and navigation)
+
+the following documents are needed to illustrate this plan
+1) design files showing mockups of home pages, headers, and navigations
+2) navigation specifications
+3) site maps
+4) proposal document
+
+Proposal document parts
+1) describe the anecdote that led me to the problem
+2) propose solution
+3) illustrate solution
+4) list necessary changes
+5) request access to hosting service control panel
+

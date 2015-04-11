@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/westlake.xsl" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         
+	      <p><img alt="Aikido" height="90" src="/images/aikido.gif" width="250" /><br />
+	      <img alt="Westlake Village Aikido" src="/images/wvac.gif" /></p>
+
+	      <p><img alt="Westlake Village Aikido" height="300" src="/images/logo2.gif" width="213" /></p>
+
+	      <p><span class="title">We are located in the First Neighborhood Center,<br />
+	      across Agoura Road from the Westlake Inn!</span></p>
+
+	      <p><span class="title">From the 101 FWY</span></p>
+
+	      <p><span class="announce">EXIT</span> at LINDERO CANYON Road<br />
+	      <span class="announce">Go SOUTH</span> to AGOURA ROAD<br />
+	      (LEFT coming NORTH ON 101, RIGHT coming SOUTH ON 101)<br />
+	      <span class="announce">Turn RIGHT</span> onto AGOURA RD.<br />
+	      <span class="announce">Turn LEFT</span> onto GREENGATE CT.<br />
+	      <span class="announce">Turn RIGHT</span> onto VILLAGE CENTER RD.<br />
+	      <br />
+	      <span class="announce">End at</span></p>
+
+	      <p>31848-50 Village Center Rd,<br />
+	      Westlake Village, CA 91361-4315</p>
+
+	   </ouc:div>
+	</content>
+
+</page>

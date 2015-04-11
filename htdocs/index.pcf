@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	      <div id="left_column" class="hp-column center">
+	      	<h3>Dojo Listing</h3>
+
+	      	<h4><a href="/austin/">Austin Iwama Aikido</a></h4>
+	      	<address>
+	      		8516 Anderson Mill Rd.<br />
+	      		Suite #100<br />
+	      		Austin, Texas 78729<br />
+	      		(512)&nbsp;257-8552<br />
+	      		<a href="mailto:austiniwamaaikido@gmail.com">Contact Us - Email</a><br />
+	      		at <a href="http://www.aimandfocus.com/"><em>Aim and Focus Karate</em></a>
+	      	</address>
+
+	      		<h4><a href="/westlake/">Westlake Village Aikido</a></h4>
+	      	<address>
+	      		31848-50 Village Center Rd<br />
+	      		Westlake Village, California 91361<br />
+	      		(805)&nbsp;630-0386<br />
+	      		<a href="mailto:wviwamaaikido@yahoo.com">Contact Us - Email</a><br />
+	      		at <a href="http://www.lacombekarate.com/"><em>Lacombe Karate</em></a>
+	      	</address>
+
+	      </div><!-- #left_column -->   
+
+	      <div id="middle_column" class="hp-column center">
+	      	<h2>Welcome to Iwama-Aikido.com</h2>
+	      	<img alt="Iwama Aikido Logo" src="images/logo2.gif" style="margin: 1em auto ; display: block; width: 90%; max-width: 213px;" />
+	      </div><!-- #middle_column --> 
+
+	      <div id="right_column" class="hp-column">
+	      	<h3>About Iwama-Aikido.com</h3>
+	      	<p>The dojos of Iwama-Aikido.com are dedicated to preserving the aikido of founder, Morihei Ueshiba, as it was taught by <a href="/masters/saito_bio.html">Morihiro Saito Shihan</a> in Iwama, Japan.<br />
+	      	Here you will find links to dojos headed by instructors who studied under <a href="/masters/alexander_bio.html">David Alexander Sensei</a>, one of the top Iwama Aikido teachers in America.</p>
+	      </div><!-- #right_column -->
+	   </ouc:div>
+	</content>
+
+</page>

@@ -1,0 +1,12 @@
+AddType video/ogg .ogv
+AddType video/mp4 .mp4
+AddType video/webm .webm
+AddType application/octet-stream exe
+AddType application/x-zip        zip
+AddType application/x-stuffit    sit
+AddType application/x-macbinary  bin
+AddType application/mac-binhex40 hqx
+AddType video/quicktime          mov
+Redirect 301 /index_wva.html http://www.iwama-aikido.com/westlake/
+Redirect 301 /index_aia.html http://www.iwama-aikido.com/austin/
+

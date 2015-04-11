@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=articles" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+<h1>Levels of Technique in Aikido Training</h1>
+
+<div>
+	<p>There are four levels of technique in Aikido training.</p>
+
+	<ol class="a">
+		<li>KATAI (rigid)</li>
+
+		<li>YAWARAKAI (flexible)</li>
+
+		<li>KI-NO-NAGARE (flowing)</li>
+
+		<li>KI (spirit)</li>
+	</ol>
+
+	<p>KATAI training is also known as KIHON (basic), and is what builds the
+	foundation of TAI-SABAKI (body movement) and KOKYU-RYOKU (abdominal breath
+	power). Training is done with a partner, where one person acts as the
+	attacker and the other as the defender, with the roles being reversed after
+	each repetition.</p>
+
+	<p>In KATAI training, the attacker establishes a strong grip on the
+	defender's wrist, shoulder or other part of the body. The defender does not
+	attempt to evade the attack, but allows the attacker to attain the initial
+	advantage.</p>
+
+	<p>From this situation, the defender must perform a technique to escape
+	from the attacker's grip and take control. The technique must be done
+	accurately, or the defender will not be not be able to escape.</p>
+
+	<p>The principle of AWASE in Aikido is to merge into an attacker's movement
+	and take control. It is hardest to do using KATAI technique, and for this
+	reason KATAI is the premiere method for learning strong technique in the
+	shortest possible time. It is training to the hilt, because the defender is
+	dealing with the attacker's full power, and any mistake will result in
+	immediately obvious ineffectiveness.</p>
+
+	<p>YAWARAKAI technique is intermediate between KATAI and KI-NO-NAGARE. The
+	principle is similar to that of JUDO, and the chinese character for
+	YAWARAKAI is the same as the JU in JUDO. It comes into play where a
+	defender attempts to perform a KATAI technique, but is overpowered by the
+	attacker. In this case, the defender gives in resiliently (like bamboo in
+	the wind), but deflects the attack in a direction such that he can merge
+	into the movement and take control.</p>
+
+	<p>In KI-NO-NAGARE technique, the defender does not wait for the attacker
+	to obtain a grip, but begins merging into the attacker's movement before
+	contact is made. KI-NO-NAGARE is actually most practical for self-defense,
+	and is also known as "leading KI". Aikido is most known for this level of
+	technique.</p>
+
+	<p>It is vitally important to establish a solid foundation in KATAI
+	technique before moving on to KI-NO-NAGARE, and to continue training KATAI
+	to prevent losing touch with the basics. A person who is proficient in
+	KATAI can easily learn KI-NO-NAGARE, but a person who has trained only
+	KI-NO-NAGARE will often not be able to move at all if gripped strongly.
+	KATAI training is what tunes a trainee into the reality of physical
+	strength and how to overcome it under the worst possible conditions.</p>
+
+	<p>KI is the ultimate of Aikido technique. The defender establishes a link
+	of KI with the defender and merges into the defender's power on a spiritual
+	level.</p>
+
+	<p>KI technique can be achieved only after many decades of hard KATAI
+	training. As the founder of Aikido, O-Sensei Morihei Uyeshiba, once stated,
+	"I am what I am today only because I did KATAI training for 50 years".</p>
+
+	<p>O-Sensei lived in KI during the latter part of his life. Although many
+	try to imitate O-Sensei's KI technique, few if any have succeeded in
+	achieving anything remotely comparable. KI technique is something that
+	beginners should know is possible, but will only frustrate themselves if
+	they try to do it.</p>
+
+	<p>Real KI technique is not a series of exercises based on the power of
+	suggestion, but something profound that comes from tapping into KI. It can
+	be very gentle, as is generally associated with O-sensei in his latter
+	years or, as Morihiro Saito-Sensei describes in his book "Traditional
+	Aikido Vol. 5", on page 36, "Aikido is generally believed to represent
+	circular movements. Contrary to such belief, however, Aikido, in its true
+	KI form, is a fierce art piercing straight through the center of
+	opposition".</p>
+
+	<p>In summary, new trainees should concentrate on learning the basics
+	through KATAI training. By doing this, they will establish a solid
+	foundation for the higher levels of technique.</p>
+</div>
+	   </ouc:div>
+	</content>
+
+</page>

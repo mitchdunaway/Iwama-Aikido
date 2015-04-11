@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/westlake.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         <h1>3rd Kyu Testing Requirements</h1>
+<ol>
+  <li>Shomen-uchi Ikkyo (haya-waza, waki-bara atemi)</li>
+  <li>Muna-dori Nikkyo (haya-waza)</li>
+  <li>Shomen-uchi Sankyo (waki-bara atemi)</li>
+  <li>Yokomen-uchi Yonkyo (omote, ura)</li>
+  <li>Yokomen-uchi Gokyo (tanken-dori)</li>
+  <li>Tsuki Rokkyo (tanken-dori)</li>
+  <li>Ushiro Eri-tori Kote-gaeshi (tanken-dori)</li>
+  <li>Shomen-uchi Irimi-nage (waki-bara atemi)</li>
+  <li>Shomen-uchi Irimi-nage (haya-osae-waza)</li>
+  <li>Ushiro Muna-dori Ikkyo</li>
+  <li>Ushiro Muna-dori Sankyo</li>
+  <li>Ushiro Muna-dori Kokyu-nage</li>
+  <li>Ushiro Muna-dori Koshi-nage</li>
+  <li>Ushiro Muna-dori Juji-nage</li>
+  <li>Suwari-waza: Yokomen-uchi Ikkyo (omote and ura)</li>
+  <li>Hamni-handachi: Katate-dori Shiho-nage</li>
+  <li>Hamni-handachi: Ryote-dori Shiho-nage</li>
+  <li>Tachi-dori - San waza</li>
+  <li>Kumitachi (1-4)</li>
+  <li>Jo-tori - San waza</li>
+  <li><a href="/westlake/exams/josuburi.html">Jo Suburi (1 - 20)</a></li>
+</ol>
+	   </ouc:div>
+	</content>
+
+</page>

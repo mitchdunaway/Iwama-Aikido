@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=media" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	      <h1>Party Images</h1>
+	         <h2>Koga Party, February 9th, 2002</h2>
+	         <ul class="thumbs clearfix">
+	         	<li><a href="/images/koga/kogaparty01.jpg" title="This was the invitation flier for our first Koga party." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty01.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogagroup02.jpg" title="The instructors photo... From left to right: Chris Powell, Christopher S. Field, Robert Koga, David Alexander." data-lightbox="kogaparty"><img src="/images/thumbs/tkogagroup02.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogagroup03.jpg" title="Group shot from Koga Sensei's party, February 9th, 2002 From left to right: Standing - Chris Powell, Christopher S. Field, Robert Koga, David Alexander, Josafath Magana. Seated - Linda Shapiro, Scott McGinnis, Kevin Price, Franklin Wise." data-lightbox="kogaparty"><img src="/images/thumbs/tkogagroup03.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty02.jpg" title="Chris Powell has a laugh." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty02.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty03.jpg" title="Allen Twarowski laughs at one of Koga Sensei's amusing stories." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty03.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty04.jpg" title="Koga Sensei is one of the most good natured, intelligent, and humorous people I've ever had the pleasure to know (and he likes pie too)." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty04.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty05.jpg" title="Widdle Scotty is up past his bedtime." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty05.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty06.jpg" title="Franklin Wise gets his point across in his usual animated way." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty06.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty07.jpg" title="Scott McGinnis gives me the finger." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty07.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty08.jpg" title="Alexander Sensei has some fun with Linda Shapiro." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty08.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty09.jpg" title="Josafath Magana and Chris Powell." data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty09.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty10.jpg" title="Koga Sensei tells one of his exciting stories!" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty10.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty11.jpg" title="Kevin Price gets a Sayonara Nikkyo. Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty11.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty12.jpg" title="Chris Field and Chris Powell 'play pull my finger'. Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty12.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty13.jpg" title="Chris Field is really annoyed at his new dance partner. Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty13.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty14.jpg" title="Franklin Wise goes for that 'hip' Austin Powers look. Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty14.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty15.jpg" title="Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty15.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty16.jpg" title="Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty16.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty17.jpg" title="Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty17.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty18.jpg" title="I'm not sure who looks the silliest in this photo Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty18.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty19.jpg" title="Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty19.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty20.jpg" title="Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty20.jpg" /></a></li>
+	         	<li><a href="/images/koga/kogaparty21.jpg" title="Westlake Village Aikido does not condone the recreational use of alcoholic beverages... Photo courtesy of Franklin Wise" data-lightbox="kogaparty"><img src="/images/thumbs/tkogaparty21.jpg" /></a></li>
+	         </ul>
+
+	         <p><a class="fancybox" href="#vid1">Watch a video of Franklin Wise dancing</a></p>
+
+	         <video controls="controls" id="vid1" style="display:none;">
+	           <source src="/video/event/koga/frankdance.webm" type='video/webm; codecs="vp8, vorbis"' />
+	           <source src="/video/event/koga/frankdance.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+	           <source src="/video/event/koga/frankdance.ogv" type='video/ogg; codecs="theora, vorbis"' />
+	           Download the video <a href="/video/event/koga/frankdance.mp4">here</a>.
+	         </video>
+
+
+	         <hr />
+
+	         <h2>Aikido Party, Westlake Village, December 2001</h2>
+	         <ul class="thumbs clearfix">
+	         	<li><a href="/images/party01/01.jpg" title="From left to right: John Hagman, Scott McGinnis, Chris Powell's back, and Hollis Boss." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t01.jpg" /></a></li>
+	         	<li><a href="/images/party01/02.jpg" title="From left to right: Kevin Price, Cam Ly, and Michael Richardson." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t02.jpg" /></a></li>
+	         	<li><a href="/images/party01/03.jpg" title="Casey signals for the aliens to come pick him up." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t03.jpg" /></a></li>
+	         	<li><a href="/images/party01/04.jpg" title="Michael Richardson" data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t04.jpg" /></a></li>
+	         	<li><a href="/images/party01/05.jpg" title="Chris Powell" data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t05.jpg" /></a></li>
+	         	<li><a href="/images/party01/06.jpg" title="Cam Ly (eating in the foreground) and Chris Powell (far right), listen as Casey tells a fun story." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t06.jpg" /></a></li>
+	         	<li><a href="/images/party01/07.jpg" title="Scott McGinnis indicates the size of his hara after consuming mass quantities of pizza." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t07.jpg" /></a></li>
+	         	<li><a href="/images/party01/08.jpg" title="From left to right: Kevin Price and Scott McGinnis." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t08.jpg" /></a></li>
+	         	<li><a href="/images/party01/09.jpg" title="Alexander Sensei gives Chris Powell a funny look." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t09.jpg" /></a></li>
+	         	<li><a href="/images/party01/10.jpg" title="Steve Glasberg" data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t10.jpg" /></a></li>
+	         	<li><a href="/images/party01/11.jpg" title="From left to right: Hollis Boss and Scott McGinnis" data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t11.jpg" /></a></li>
+	         	<li><a href="/images/party01/12.jpg" title="John Hagman drops pizza into Casey's lap." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t12.jpg" /></a></li>
+	         	<li><a href="/images/party01/13.jpg" title="Alexander Sensei having fun with John Hagman." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t13.jpg" /></a></li>
+	         	<li><a href="/images/party01/14.jpg" title="John's awareness finally kicks in." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t14.jpg" /></a></li>
+	         	<li><a href="/images/party01/15.jpg" title="I'll let the readers draw their own conclusions about this one..." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t15.jpg" /></a></li>
+	         	<li><a href="/images/party01/16.jpg" title="From left to right: Jason Ives and Yves Lempereur (waving at the camera)." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t16.jpg" /></a></li>
+	         	<li><a href="/images/party01/17.jpg" title="Takako Alexander attempts to hide from the camera." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t17.jpg" /></a></li>
+	         	<li><a href="/images/party01/18.jpg" title="Alexander Sensei and Christopher Field share a laugh." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t18.jpg" /></a></li>
+	         	<li><a href="/images/party01/19.jpg" title="Allen auditions for his own beer commercial." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t19.jpg" /></a></li>
+	         	<li><a href="/images/party01/20.jpg" title="Allen and Casey laughing." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t20.jpg" /></a></li>
+	         	<li><a href="/images/party01/21.jpg" title="Alexander Sensei performs for the amused partygoers." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t21.jpg" /></a></li>
+	         	<li><a href="/images/party01/22.jpg" title="Allen attempts to demonstrate his deadly 'Vulcan Neck Pinch' technique." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t22.jpg" /></a></li>
+	         	<li><a href="/images/party01/23.jpg" title="Alexander Sensei talks to Hollis." data-lightbox="westlakeDecember"><img src="/images/thumbs/party01/t23.jpg" /></a></li>
+	         </ul>
+	         <hr />
+
+	         <h2>Ulf Events Sensei Seminar, Westlake Village, April 2001</h2>
+	         <ul class="thumbs clearfix">
+	         	<li><a href="/images/Aikido_Ulf-01.jpg" title="Christopher S. Field, Ulf Evenås Sensei, and David Alexander Sensei, April 2001." data-lightbox="ulf"><img src="/images/thumbs/TUlf01.jpg" /></a></li>
+	         	<li><a href="/images/Aikido_Ulf-03.jpg" title="From left to right: Standing - Jason Ives, Steven Glasberg, Kevin Price, and Alen Ghazarian. Seated - Christopher S. Field, Allen Twarowski, Ulf Evenås Sensei, Franklin Wise, David Alexander Sensei, and Scott McGinnis, April 2001." data-lightbox="ulf"><img src="/images/thumbs/TUlf03.jpg" /></a></li>
+	         	<li><a href="/images/Aikido_Ulf-04.jpg" title="Chris being thanked generously by Allen and Scott for the suggestion of taking so many pictures." data-lightbox="ulf"><img src="/images/thumbs/TUlf04.jpg" /></a></li>
+	         	<li><a href="/images/Aikido_Ulf-05.jpg" title="New student initiation... just kidding." data-lightbox="ulf"><img src="/images/thumbs/TUlf05.jpg" /></a></li>
+	         </ul>
+	   </ouc:div>
+	</content>
+
+</page>

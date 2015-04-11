@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/westlake.xsl" extension="html"?>
+
+
+<!DOCTYPE document [ 
+<!ENTITY nbsp "&#160;">
+<!ENTITY copy "&#169;">
+<!ENTITY trade "&#8482;">
+]> 
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	
+
+	<content>
+		<ouc:div label="title" group="Everyone" button="464" >
+			<ouc:editor wysiwyg="yes" />
+
+			<div class="hp-column center" id="left_column">
+				
+
+				<p style="text-align: center"><br />
+				<strong style="text-decoration: underline">Adult Classes</strong></p>
+
+				<div class="center">
+					<table border="0" summary="Class Schedule">
+						<colgroup>
+							<col />
+							<col width="20" />
+							<col />
+						</colgroup>
+
+						<tbody>
+							<tr>
+								<td>Monday</td>
+
+								<td></td>
+
+								<td>8:15 - 9:15&nbsp;pm</td>
+							</tr>
+
+							<tr>
+								<td>Wednesday</td>
+
+								<td></td>
+
+								<td>8:00 - 9:15&nbsp;pm</td>
+							</tr>
+
+							<tr>
+								<td>Thursday</td>
+
+								<td></td>
+
+								<td>8:00 - 9:15&nbsp;pm</td>
+							</tr>
+
+							<tr>
+								<td>Friday</td>
+
+								<td></td>
+
+								<td>7:00 - 8:00&nbsp;pm</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<div class="center">
+					<table border="0" summary="Fees">
+						<colgroup>
+							<col />
+							<col width="80" />
+							<col />
+						</colgroup>
+
+						<tbody>
+							<tr>
+								<td>&nbsp;</td>
+
+								<td></td>
+
+								<td>&nbsp;</td>
+							</tr>
+
+							<tr>
+								<td colspan="3" style="text-decoration: underline">Tuition:</td>
+							</tr>
+
+							<tr>
+								<td colspan="3">$105 per month tuition</td>
+							</tr>
+
+							<tr>
+								<td colspan="3">$40 one-time registration fee</td>
+							</tr>
+
+							<tr>
+								<td colspan="3">
+									<p><strong style="text-decoration: underline">Kids Classes</strong>&nbsp;</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<div class="center">
+					Saturday&nbsp;&nbsp;&nbsp; 12:30 - 1:30
+				</div>
+
+				<div class="center">
+					<strong style="text-decoration: underline"></strong>&nbsp;
+				</div>
+
+				<div class="center" style="text-decoration: underline">
+					Tuition:
+				</div>
+
+				<div class="center">
+					$55 per month tuition
+				</div>
+
+				<div class="center">
+					$40 one-time registration fee
+				</div>
+
+				<div class="center">
+					&nbsp;
+				</div>
+
+				<div class="center">
+					&nbsp;
+				</div>
+
+				<p class="center" style="text-align: center">Anybody interested in Aikido is welcome to observe as many classes as they like, at any time.</p>
+
+				<p class="center" style="text-align: center">Students from other dojos are welcome to train with us any evening they wish for a $5 mat fee.</p>
+			</div><!-- #left_column -->
+
+			<div class="hp-column center" id="middle_column">
+				<p><img alt="Aikido" height="90" src="/images/aikido.gif" width="250" /><br />
+				<img alt="Westlake Village Aikido" src="/images/wvac.gif" /></p>
+
+				<p><img alt="Westlake Village Aikido" height="300" src="/images/logo2.gif" width="213" /></p>
+
+				<div class="center">
+					31848-50 Village Center Rd<br />
+					Westlake Village, CA 91361<br />
+					(805)&nbsp;630-0386<br />
+					<a href="mailto:wviwamaaikido@yahoo.com">Contact Us - Email</a><br />
+					at <a href="http://www.lacombekarate.com/"><em>Lacombe Karate</em></a> in the <a href="/westlake/contact.html">First Neighborhood Center</a>
+				</div>
+			</div><!-- #middle_column -->
+
+			<div class="hp-column" id="right_column">
+
+				<div class="fb-like-box" data-colorscheme="light" data-header="true" data-href="https://www.facebook.com/WVAikido" data-show-border="true" data-show-faces="true" data-stream="false"></div>
+				
+				<p>Westlake Village Aikido was founded by <a href="/masters/alexander_bio.html">David Alexander</a> in 1989. Alexander Sensei spent 10 years between 1972 and 1984 training Aikido in Iwama, Japan under <a href="/masters/saito_bio.html">Morihiro Saito Sensei</a>. Saito Sensei&nbsp;was the leading authority on Aikido after&nbsp;training under the founder, Morihei Ueshiba, for 23 years, almost a quarter century. The Aikido training at Westlake Village Aikido follows Saito Sensei's traditional Aikido style and teaching methods.<br /></p>
+			</div><!-- #right_column -->
+
+		</ouc:div>
+	</content>
+</page>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=media" extension="html"?>
+
+<!DOCTYPE document [ 
+	<!ENTITY nbsp "&#160;">
+	<!ENTITY copy "&#169;">
+	<!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+		<ouc:div label="title" group="Everyone" button="464" >
+			<ouc:editor wysiwyg="yes" />
+
+
+			<h1>Images</h1>
+
+			<h2>Alexander Sensei's Personal Collection</h2>
+
+			<ul class="thumbs clearfix">
+				
+				
+								
+			<li><a href="/images/sensei01.jpg" data-lightbox="alexander" title="A group photo in Iwama. Saito Sensei is seated center in the first row. His wife is on the far right. Other notable people in the back row are Alexander Sensei on the far right, and Bill Witt Sensei and his wife directly behind Saito Sensei."><img src="/images/thumbs/Tsensei01.jpg" /></a></li>
+				<li><a href="/images/sensei02.jpg" data-lightbox="alexander" title=""><img src="/images/thumbs/Tsensei02.jpg" /></a></li>
+				<li><a href="/images/sensei03.jpg" data-lightbox="alexander" title="A photo from a New Zealand newspaper featured in an article on Alexander Sensei."><img src="/images/thumbs/Tsensei03.jpg" /></a></li>
+				<li><a href="/images/sensei/sensei04.jpg" data-lightbox="alexander" title="A photo from a Tuesday, October 15th, 1974 Hawaiian newspaper featuring an article about Saito Sensei's first trip to the United States. Alexander Sensei accompanied him on this trip and served as his translator."><img src="/images/thumbs/tsensei04.jpg" /></a></li>
+				<li><a href="/images/sensei05.jpg" data-lightbox="alexander" title="This is a party for Saito Sensei following his being presented an award from the Nippon Budo Kan. Notable guests seated from left to right are Shigemi Inagaki Sensei on the far left, Hiroshi Isoyama Sensei seated next to Saito Sensei, and Alexander Sensei on the far right."><img src="/images/thumbs/Tsensei05.jpg" /></a></li>
+			<li><a href="/images/sensei06.jpg" data-lightbox="alexander" title="From left to right: Standing - Christopher S. Field, Chris Powell, Franklin Wise, Allen Twarowski, Scott McGinnis, David Alexander Sensei. Seated - Shigeru Kawabe Sensei and Morihiro Saito Sensei, September 1998"><img src="/images/thumbs/Tsensei06.jpg" /></a></li>
+			<li><a href="/images/sensei07.jpg" data-lightbox="alexander" title="A Sayonara Nikkyo performed with Suntory Red whiskey (Iwama nectar) on Mark van Meerendonk Sensei from Germany."><img src="/images/thumbs/Tsensei07.jpg" /></a></li>
+				<li><a href="/images/sensei08.jpg" data-lightbox="alexander" title="A picture of Iwama dojo in the 70s."><img src="/images/thumbs/Tsensei08.jpg" /></a></li>
+				<li><a href="/images/sensei09.jpg" data-lightbox="alexander" title="Alexander Sensei with Keith Hartley Sensei at Iwama station."><img src="/images/thumbs/Tsensei09.jpg" /></a></li>
+				<li><a href="/images/sensei10.jpg" data-lightbox="alexander" title="This photo was taken in Sacramento on Saito Sensei's first trip to the United States in 1974. Seated from left to right are: Inagaki Sensei, Tri Sensei, Saito Sensei, and Alexander Sensei."><img src="/images/thumbs/Tsensei10.jpg" /></a></li>
+				<li><a href="/images/sensei11.jpg" data-lightbox="alexander" title="Alexander Sensei's Sayonara Nikkyo in 1976."><img src="/images/thumbs/Tsensei11.jpg" /></a></li>
+			<li><a href="/images/sensei12.jpg" data-lightbox="alexander" title="From left to right: Pat Hendricks Sensei, David Alexander Sensei, Morihiro Saito Sensei, and Bernice Tom Sensei."><img src="/images/thumbs/Tsensei12.jpg" /></a></li>
+			<li><a href="/images/sensei13.jpg" data-lightbox="alexander" title="A photo of Alexander Sensei receiving the rank of Godan from Saito Sensei on January 15th, 1984. Inagaki Sensei can be seen in a suit to the left of Saito Sensei. Stan Pranin Sensei (from Aikido Journal) can be seen seated in the background just to the right of Alexander Sensei."><img src="/images/thumbs/Tsensei13.jpg" /></a></li>
+				<li><a href="/images/sensei14.jpg" data-lightbox="alexander" title="This photo was taken in the San Francisco airport, just before Saito Sensei's return to Japan, after his first trip to the United States in 1974."><img src="/images/thumbs/Tsensei14.jpg" /></a></li>
+				<li><a href="/images/sensei15.jpg" data-lightbox="alexander" title="Alexander Sensei's first house in Iwama."><img src="/images/thumbs/Tsensei15.jpg" /></a></li>
+				<li><a href="/images/sensei16.jpg" data-lightbox="alexander" title="From left to right: Takako Alexander, Morihiro Saito Sensei, and David Alexander Sensei in Saito Sensei's garden."><img src="/images/thumbs/Tsensei16.jpg" /></a></li>
+			<li><a href="/images/sensei17.jpg" data-lightbox="alexander" title="Saito Sensei training with Alexander Sensei."><img src="/images/thumbs/Tsensei17.jpg" /></a></li>
+				<li><a href="/images/sensei18.jpg" data-lightbox="alexander" title="A group of Isoyama Sensei's students in front of the Iwama shrine. This class was taught by Inagaki Sensei who can be seen seated next to Alexander Sensei (who is the white belt seated on the far right)."><img src="/images/thumbs/Tsensei18.jpg" /></a></li>
+			<li><a href="/images/sensei19.jpg" data-lightbox="alexander" title="Isoyama Sensei's students. Alexander Sensei can be seen standing on the far left He was a white belt at the time. Isoyama Sensei is the gentleman seated without a shirt."><img src="/images/thumbs/Tsensei19.jpg" /></a></li>
+				<li><a href="/images/sensei20.jpg" data-lightbox="alexander" title="Alexander Sensei performing a demonstration at the Tai Sai. Saito Sensei, seated, watches from the background."><img src="/images/thumbs/Tsensei20.jpg" /></a></li>
+				<li><a href="/images/sensei21.jpg" data-lightbox="alexander" title="This photo was taken on a sailboat during Saito Sensei's first trip to the United States in 1974. Bruce Klickstein Sensei can be seen seated (with the moustache). Bill Witt Sensei can be seen to the right of Saito Sensei. Alexander Sensei is standing in back with the blue cap on."><img src="/images/thumbs/Tsensei21.jpg" /></a></li>
+				<li><a href="/images/sensei22.jpg" data-lightbox="alexander" title="A photo from Alexander Sensei's first party with Saito Sensei at his apartment in Tokyo (before moving to Iwama). From left to right: Lars Anderson Sensei, Morihiro Saito Sensei, Takeji Tomita Sensei, and David Alexander Sensei."><img src="/images/thumbs/Tsensei22.jpg" /></a></li>
+				<li><a href="/images/sensei23.jpg" data-lightbox="alexander" title="A group photo from Iwama. Hans Goto Sensei (as a white belt) can be seen standing center in the back. Seated from left to right are: Bruce Klickstein Sensei, Ulf Evenås Sensei (as a white belt), Unknown, David Alexander Sensei, Morihiro Saito Sensei, and Bill Witt Sensei."><img src="/images/thumbs/Tsensei23.jpg" /></a></li>
+			<li><a href="/images/sensei24.jpg" data-lightbox="alexander" title="A photo from Saito Sensei's first trip to Bastad, Sweden in 1982. From left to right: Alexander Sensei, Saito Sensei, Tomita Sensei, Maggie ?, Anderson Sensei, Evenås Sensei, and Elaine Evenås."><img src="/images/thumbs/Tsensei24.jpg" /></a></li>
+			<li><a href="/images/sensei25.jpg" data-lightbox="alexander" title="A photo of Saito Sensei performing Ikkyo on Alexander Sensei from an article in the Hombu Aikido newspaper. The photo was from a demonstration at Hibiya Kaikan."><img src="/images/thumbs/Tsensei25.jpg" /></a></li>
+				<li><a href="/images/sensei26.jpg" data-lightbox="alexander" title="A photo taken in Hawaii on Saito Sensei's first trip to the United States in 1974."><img src="/images/thumbs/Tsensei26.jpg" /></a></li>
+				<li><a href="/images/sensei27.jpg" data-lightbox="alexander" title="A photo taken in San Francisco on Saito Sensei's first trip to the United States in 1974. Standing on the far left is Hans Goto Sensei. Standing second from the right is Bruce Klickstein Sensei. Seated from left to right: David Alexander Sensei, Morihiro Saito Sensei, and Bill Witt Sensei."><img src="/images/thumbs/Tsensei27.jpg" /></a></li>
+				<li><a href="/images/sensei28.jpg" data-lightbox="alexander" title="A group photo in Iwama."><img src="/images/thumbs/Tsensei28.jpg" /></a></li>
+				<li><a href="/images/sensei29.jpg" data-lightbox="alexander" title="An early shot from Westlake Village Aikido. Seated in front from left to right: Pat Yarrow Sensei, David Alexander Sensei, and Erico Shoji."><img src="/images/thumbs/Tsensei29.jpg" /></a></li>
+			<li><a href="/images/sensei30.jpg" data-lightbox="alexander" title="Saito Sensei seminar at Westlake Village Aikido, September 16, 1991."><img src="/images/thumbs/Tsensei30.jpg" /></a></li>
+			<li><a href="/images/sensei31.jpg" data-lightbox="alexander" title="A shot of the first Westlake Village Aikido students. Seated in front from left to right: Takako Alexander, David Alexander Sensei, and Erico Shoji."><img src="/images/thumbs/Tsensei31.jpg" /></a></li>
+			<li><a href="/images/sensei32.jpg" data-lightbox="alexander" title="Another early shot of some Westlake Village Aikido students. From left to right: Hal Epstien, Yves Lempereur, Craig ?, David Wagner, David Alexander Sensei, and Unknown."><img src="/images/thumbs/Tsensei32.jpg" /></a></li>
+			<li><a href="/images/sensei/swemag.jpg" data-lightbox="alexander" title="An article on Alexander Sensei's 2002 seminar in Sweden from the Nr 3-2002 issue of Fighter Magazine (from Sweden)."><img src="/images/thumbs/tswemag.jpg" /></a></li>
+			<li><a href="/images/sensei/benten.jpg" data-lightbox="alexander" title="A photo of Alexander Sensei and his wife on 'Benten Ike', a small pond behind the Aikido shrine."><img src="/images/thumbs/tbenten.jpg" /></a></li>
+			<li><a href="/images/sensei/kazumari.jpg" data-lightbox="alexander" title="From left to right: Saito Sensei's wife and their grandson, Kazumari, Saito Sensei, and Corri Geffen."><img src="/images/thumbs/tkazumari.jpg" /></a></li>
+			<li><a href="/images/sensei/fumiko.jpg" data-lightbox="alexander" title="A sayonara nikkyo being performed on Tom Everett by Saito Sensei and Inagaki Sensei. Fumiko Furuki does the pouring duties."><img src="/images/thumbs/tfumiko.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei33.jpg" data-lightbox="alexander" title=""><img src="/images/thumbs/tsensei33.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei34.jpg" data-lightbox="alexander" title=""><img src="/images/thumbs/tsensei34.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei35.jpg" data-lightbox="alexander" title=""><img src="/images/thumbs/tsensei35.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei36.jpg" data-lightbox="alexander" title="Saito Sensei's drinking buddies.  From left to right: Shigemi Inagaki Sensei, Morihiro Saito Sensei, David Alexander Sensei, Niitsuma-san (who owns a futon store on the main street in Iwama), and Nagai-san (whose family owns some kind of industrial company)."><img src="/images/thumbs/tsensei36.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei37.jpg" data-lightbox="alexander" title="Saito Sensei training with Alexander Sensei"><img src="/images/thumbs/tsensei37.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei38.jpg" data-lightbox="alexander" title=""><img src="/images/thumbs/tsensei38.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei39.jpg" data-lightbox="alexander" title=""><img src="/images/thumbs/tsensei39.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei40.jpg" data-lightbox="alexander" title="Saito Sensei training with Alexander Sensei."><img src="/images/thumbs/tsensei40.jpg" /></a></li>
+			<li><a href="/images/sensei/takako01.jpg" data-lightbox="alexander" title="An article featuring Takako Alexander from the Thursday, December 3, 1981 issue of Northern Advocate (from New Zealand)."><img src="/images/thumbs/ttakako01.jpg" /></a></li>
+			<li><a href="/images/sensei/m1.jpg" data-lightbox="alexander" title=""><img src="/images/thumbs/tm1.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei41.jpg" data-lightbox="alexander" title=""><img src="/images/thumbs/tsensei41.jpg" /></a></li>
+			<li><a href="/images/sensei/swenews.jpg" data-lightbox="alexander" title="An article about Saito Sensei's 1982 trip to Sweden from the Hallandsposten newspaper, August 3, 1982. Alexander Sensei is visible as Saito Sensei's uke in the upper photograph."><img src="/images/thumbs/tswenews.jpg" /></a></li>
+			<li><a href="/images/sensei/newschron.jpg" data-lightbox="alexander" title="An article about Alexander Sensei from the December 6, 1989 issue of the Thousand Oaks News Chronicle."><img src="/images/thumbs/tnewschron.jpg" /></a></li>
+			<li><a href="/images/sensei/osenseiken01.jpg" data-lightbox="alexander" title="Alexander Sensei: 'Saito Sensei gave this set of three pictures to several of his deshi to illustrate the difference between the Aikido sword stance and a conventional straight stance used in sports Kendo and some other martial arts. In the straight stance the hips face into the line of attack, whereas in the Aikido stance the hips are rotated back away from the line of attack. If two people using the straight stance attack each other from above simultaneously, they will hit each other.  However, if one person is in the Aikido stance, he will hit the other person, but the other person will not hit him.'"><img src="/images/thumbs/tosenseiken01.jpg" /></a></li>
+			<li><a href="/images/sensei/osenseiken02.jpg" data-lightbox="alexander" title="Alexander Sensei: 'Saito Sensei gave this set of three pictures to several of his deshi to illustrate the difference between the Aikido sword stance and a conventional straight stance used in sports Kendo and some other martial arts. In the straight stance the hips face into the line of attack, whereas in the Aikido stance the hips are rotated back away from the line of attack. If two people using the straight stance attack each other from above simultaneously, they will hit each other.  However, if one person is in the Aikido stance, he will hit the other person, but the other person will not hit him.'"><img src="/images/thumbs/tosenseiken02.jpg" /></a></li>
+			<li><a href="/images/sensei/osenseiken03.jpg" data-lightbox="alexander" title="Alexander Sensei: 'Saito Sensei gave this set of three pictures to several of his deshi to illustrate the difference between the Aikido sword stance and a conventional straight stance used in sports Kendo and some other martial arts. In the straight stance the hips face into the line of attack, whereas in the Aikido stance the hips are rotated back away from the line of attack. If two people using the straight stance attack each other from above simultaneously, they will hit each other.  However, if one person is in the Aikido stance, he will hit the other person, but the other person will not hit him.'"><img src="/images/thumbs/tosenseiken03.jpg" /></a></li>
+			<li><a href="/images/sensei/senseigi.jpg" data-lightbox="alexander" title="Alexander Sensei's gi, signed by all his fellow students, upon his leaving Iwama, Japan. Alexander Sensei can be seen wearing this gi at his farewell party in the sensei11 photo in Alexander Sensei's Personal Collection."><img src="/images/thumbs/tsenseigi.jpg" /></a></li>
+			<li><a href="/images/sensei/board.jpg" data-lightbox="alexander" title="Three boards containing signatures from fellow students, given to Alexander Sensei upon his leaving Iwama, Japan."><img src="/images/thumbs/tboard.jpg" /></a></li>
+			<li><a href="/images/sensei/sensei42.jpg" data-lightbox="alexander" title="Shigemi Inagaki showing Tom Everett the kokyu body movement, California 1974"><img src="/images/thumbs/tsensei42.jpg" /></a></li>
+			<li><a href="/images/sensei/davidalexandervietnam1966.jpg" data-lightbox="alexander" title="A shot of Alexander Sensei from his time in the Navy; Vietnam 1966."><img src="/images/thumbs/tdavidalexandervietnam1966.jpg" /></a></li>
+			<li><a href="/images/sensei/international.jpg" data-lightbox="alexander" title="From left to right: Dimitri (Greece), Abe (Israel), Saito Sensei, Donna (USA), Andre (Switzerland), and Alexander Sensei. Yes, Iwama got to be a pretty international place, and it still is."><img src="/images/thumbs/tinternational.jpg" /></a></li>
+			<li><a href="/images/sensei/citation.jpg" data-lightbox="alexander" title="Here is a citation that Alexander Sensei received 'for outstanding performance' during his U.S. Naval service in Vietnam."><img src="/images/thumbs/tcitation.jpg" /></a></li>
+			<li><a style="margin-left: -9px;" href="/images/sensei/Citta_di-Castello-2005-3_Sensei_Seiza.jpg" data-lightbox="alexander" title="This photo was taken in Citta di Castello, Italy in 2005.  It is from a seminar taught by Alexander Sensei, Ulf Evenas and Paolo Coralini."><img style="width:94px;" src="/images/sensei/Citta_di-Castello-2005-3_Sensei_Seiza.jpg" /></a></li>
+
+				
+
+		</ul>
+			<hr />
+
+			<h2>Old Publicity Photos, 1995</h2>
+
+<ul class="thumbs clearfix">
+		<li><a href="/images/old01.jpg" data-lightbox="publicity"><img src="/images/thumbs/told01.jpg" /></a></li>
+				<li><a href="/images/old02.jpg" data-lightbox="publicity"><img src="/images/thumbs/told02.jpg" /></a></li>
+				<li><a href="/images/old03.jpg" data-lightbox="publicity"><img src="/images/thumbs/told03.jpg" /></a></li>
+				<li><a href="/images/old04.jpg" data-lightbox="publicity"><img src="/images/thumbs/told04.jpg" /></a></li>
+				<li><a href="/images/old05.jpg" data-lightbox="publicity"><img src="/images/thumbs/told05.jpg" /></a></li>
+				<li><a href="/images/old06.jpg" data-lightbox="publicity"><img src="/images/thumbs/told06.jpg" /></a></li>
+				<li><a href="/images/old07.jpg" data-lightbox="publicity"><img src="/images/thumbs/told07.jpg" /></a></li>
+				<li><a href="/images/old08.jpg" data-lightbox="publicity"><img src="/images/thumbs/told08.jpg" /></a></li>
+</ul>
+			<hr />
+
+			<h2>Promotion Photos</h2>
+
+<ul class="thumbs clearfix">
+		<li><a href="/images/yondan.jpg" data-lightbox="promotion" title="Casey Rodgers and Christopher Field pose with Alexander Sensei after being promoted to 4th Dan on February 12th, 2003."><img src="/images/thumbs/tyondan.jpg" /></a></li>
+</ul>
+		</ouc:div>
+	</content>
+
+</page>

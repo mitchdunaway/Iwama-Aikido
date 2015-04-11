@@ -1,0 +1,22 @@
+goal
+to show what the main site and the dojo sites will look like and how they will function on the home page and on inside pages in at least three widths. It should also act as a tool for the development of the site. As such, it should do the following things: specify fonts and colors for common html tags, lend itself to easy slicing, demonstrate interactivity, etc.
+
+page listing
+main site, home page, single column
+main site, home page, 2 column
+main site, home page, full-width
+main site, inside page, single column
+main site, inside page, 2 column
+main site, inside page, full-width
+dojo site, home page, single column
+dojo site, home page, 2 column
+dojo site, home page, full-width
+dojo site, inside page, single column
+dojo site, inside page, 2 column
+dojo site, inside page, full-width
+dojo site, inside page, full-width, font-specification
+
+  
+
+
+need to contact the webmaster for the Westlake dojo to talk to him about the revisions. What content does he want included on his dojo site? He needs to be informed of the changes and how they will affect his workflow. 

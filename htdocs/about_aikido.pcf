@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+<content xmlns:ouc="http://www.iconkraft.com">
+   <ouc:div label="title" group="Everyone" button="464" >
+      <ouc:editor wysiwyg="yes" />
+      
+         <h1>What Is Aikido?</h1>
+
+         <p>Aikido was founded by Morihei Ueshiba (also known as "O'Sensei" or "Great Teacher"). As an accomplished martial arts practitioner and instructor he continually sought new directions for his own personal training and development. This lead to his creation of a new martial art called Aikido.
+         The name Aikido consists of three Japanese Characters (Kanji): AI, to unite; KI, spirit; DO, way or path. The last character is significant in that it implies a path, or philosophy that one follows in one's life. This delineates Aikido from jutsu or systems of techniques.</p>
+
+         <p>The physical techniques of this art, primarily joint techniques and throws, derive from various "old style" ju-jitsu, most notably those of the Daito-ryu.  However, the Founder felt that his system was unique in that it united mind, body, and spirit of the practitioner in such a way to overcome an opponent without resorting to a clash of arms. Employing movement principles and concepts that are special to Aikido practices, he used old traditions to develop the art to become a dynamic part of modern society.</p>
+
+         <p>In addition to the taijutsu (empty handed techniques) of these ryu, O'Sensei incorporated many principles, philosophies and body mechanics from various weapons arts, especially those of the sword and spear.</p>
+
+         <p>After retiring to Iwama, O'Sensei spent many years engaged in farming and intense practice. It is while in Iwama that O'Sensei developed the art form that we today, recognize as Aikido. The movements of taijutsu and weapons were synthesized into a physical art form which emphasizes the practitioners own personal development, i.e. physical, mental and spiritual, rather than emphasizing the physical destruction of an attacker.  The Founder strongly felt that "Aiki is not a technique to fight with or defeat the enemy. It is the way to reconcile the world and make human beings one family."</p>
+
+         <p>Iwama Style is easily discernable from other styles of Aikido. It is highly technical and deeply rooted in the basics of the art. Techniques are practiced in a very clean, focused, and precise manner. Training is structured, beginning with slow, deliberate movements, progressing over time in both skill and efficiency, resulting in techniques that are fluid and extremely powerful.</p>
+
+         <p>Aikido is a highly effective form of self-defense that does not require great size or strength on the part of the practitioner, and can therefore be learned and practiced by men and women of virtually any size or age.  Rather than contest an opponent's power, the Aikido practitioner merges into his or her opponent's power, and takes control.</p>
+
+   </ouc:div>
+</content>

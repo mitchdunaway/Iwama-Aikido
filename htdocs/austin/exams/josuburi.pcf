@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/austin.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         <h1>Jo Suburi</h1>
+
+<ol>
+	<li style="list-style: none"><strong>Tsuki-bu: thrust series</strong></li>
+
+	<li>Choku-tsuki: straight thrust <a href="/movies/jo1.mov">(View Technique)</a>
+	</li>
+
+	<li>Kaeshi-tsuki: return thrust <a href="/movies/jo2.mov">(View Technique)</a>
+	</li>
+
+	<li>Ushiro-tsuki: rear thrust <a href="/movies/jo3.mov">(View Technique)</a>
+	</li>
+
+	<li>Tsuki, Gedan-gaeshi: thrust, low return <a href="/movies/jo4.mov">(View Technique)</a>
+	</li>
+
+	<li>Tsuki, Jodan-gaeshi: thrust, high return <a href="/movies/jo5.mov">(View Technique)</a>
+
+		<p>&nbsp;</p><strong>Uchikomi-bu: strike-in series</strong>
+	</li>
+
+	<li>Shomen Uchikomi: overhead strike-in</li>
+
+	<li>Renzoku Uchikomi: continuous strike-in</li>
+
+	<li>Men-uchi, Gedan-gaeshi: head-strike, low return</li>
+
+	<li>Men-uchi, Ushiro-tsuki: head-strike, rear thrust</li>
+
+	<li>Gyaku-Yokomen, Ushiro-tsuki: reverse side-head strike, rear thrust
+
+		<p>&nbsp;</p><strong>Katate-bu: one-hand series</strong>
+	</li>
+
+	<li>Katate Gedan-gaeshi: one-hand low-return</li>
+
+	<li>Toma Katate-uchi: long-distance one-hand strike</li>
+
+	<li>Katate Hachi-no-ji gaeshi: one-hand figure eight return
+
+		<p>&nbsp;</p><strong>Hasso-gaeshi bu: figure-eight-return section</strong>
+	</li>
+
+	<li>Hasso-gaeshi, Uchi: figure-eight-return, strike</li>
+
+	<li>Hasso-gaeshi, Tsuki: figure-eight-return, thrust</li>
+
+	<li>Hasso-gaeshi, Ushiro-tsuki: figure-eight-return, rear thrust</li>
+
+	<li>Hasso-gasehi, Ushiro-uchi: figure-eight-return, rear strike</li>
+
+	<li>Hasso-gasehi, Ushiro-harai: figure-eight-return, rear sweep
+
+		<p>&nbsp;</p><strong>Nagare-bu: flowing series</strong>
+	</li>
+
+	<li>Hidari-nagare, Gaeshi-uchi: left flow, return-strike</li>
+
+	<li>Migi-nagage, Gaeshi-tsuki: right flow, return-thru</li>
+</ol>
+	   </ouc:div>
+	</content>
+
+</page>

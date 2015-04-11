@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/dev02/austin.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+
+
+<h1>5th Kyu Testing Requirements</h1>
+
+<ol>
+	<li>
+		Shomen-uchi Ikkyo (omote and ura): overhead strike, first teaching (front and back) <a class="fancybox" data-video-folder="technique/taijutsu/" href="#ikkyo">View Omote</a>, <a class="fancybox" data-video-folder="technique/taijutsu/" href="#ikkyouralg">View Ura</a>
+
+	</li>
+
+	<li>Kata-dori Nikkyo (omote and ura): shoulder held, second teaching (front and back) <a class="fancybox" data-video-folder="technique/taijutsu/" href="#nikomotelg">View Omote</a>, <a class="fancybox" data-video-folder="technique/taijutsu/" href="#nikkyo">View Ura</a>
+	</li>
+
+	<li>Katate-dori Shiho-nage (omote and ura): one hand held, four way throw (front and back) <a class="fancybox" data-video-folder="technique/taijutsu/" href="#shiho_omote">View Omote</a>, <a class="fancybox" data-video-folder="technique/taijutsu/" href="#shihouralg">View Ura</a>
+	</li>
+
+	<li>Mune-tsuki Kote-gaeshi: strike to chest, wrist return <a class="fancybox" data-video-folder="technique/taijutsu/" href="#tsukikotelg">View Technique</a>
+	</li>
+
+	<li>Katate-dori Irimi-nage: one hand held, entering throw <a class="fancybox" data-video-folder="technique/taijutsu/" href="#katateirimilg">View Technique</a>
+	</li>
+
+	<li>Ryote-dori Tenchi-nage: two hands held, heaven and earth throw <a class="fancybox" data-video-folder="technique/taijutsu/" href="#ryotenchilg">View Technique</a>
+	</li>
+
+	<li>Morote-dori Kokyu-nage: one hand held by two hands, abdominal breath throw <a class="fancybox" data-video-folder="technique/taijutsu/" href="#kokyunage">View Technique</a>
+	</li>
+
+	<li>Ken Suburi (1-7): sword individual exercises (1-7)
+
+		<ol class="a">
+			<li>
+				<a class="fancybox" data-video-folder="technique/tachi_waza/" href="#shomen">View #1</a>
+			</li>
+
+			<li>
+				<a class="fancybox" data-video-folder="technique/alexander/" href="#2suburilg">View #2</a>
+			</li>
+
+			<li>
+				<a class="fancybox" data-video-folder="technique/alexander/" href="#3suburilg">View #3</a>
+			</li>
+
+			<li>
+				<a class="fancybox" data-video-folder="technique/tachi_waza/" href="#4suburi">View #4</a>
+			</li>
+
+			<li>
+				<a class="fancybox" data-video-folder="technique/tachi_waza/" href="#5suburi">View #5</a>
+			</li>
+
+			<li>
+				<a class="fancybox" data-video-folder="technique/tachi_waza/" href="#7suburi">View #7</a>
+			</li>
+		</ol>
+	</li>
+
+	<li>Jo Suburi (1-5): staff individual exercises (1-5)
+
+		<ol class="a">
+			<li>Choku-tsuki: straight thrust <a class="fancybox" data-video-folder="technique/jo_waza/" href="#jo1lg">View Technique</a>
+			</li>
+
+			<li>Kaeshi-tsuki: return thrust <a class="fancybox" data-video-folder="technique/jo_waza/" href="#jo2lg">View Technique</a>
+			</li>
+
+			<li>Ushiro-tsuki: rear thrust <a class="fancybox" data-video-folder="technique/jo_waza/" href="#jo3lg">View Technique</a>
+			</li>
+
+			<li>Tsuki, Gedan-gaeshi: thrust, low return <a class="fancybox" data-video-folder="technique/jo_waza/" href="#jo4lg">View Technique</a>
+			</li>
+
+			<li>Tsuki, Jodan-gaeshi: thrust, high return <a class="fancybox" data-video-folder="technique/jo_waza/" href="#jo5lg">View Technique</a>
+			</li>
+		</ol>
+	</li>
+</ol>
+
+	   </ouc:div>
+	</content>
+
+</page>

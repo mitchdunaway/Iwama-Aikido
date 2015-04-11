@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/austin.xsl"  extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         
+	      	<h1>Events</h1>
+
+	      	<p>Currently no upcoming events. Thank you for checking. For Austin Iwama Aikido's latest updates, please check the <a href="http://www.facebook.com/austiniwamaaikido">Austin Iwama Aikido Facebook Page</a></p>
+
+	   </ouc:div>
+	</content>
+
+</page>

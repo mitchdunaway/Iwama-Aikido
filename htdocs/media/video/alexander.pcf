@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=media" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         
+	      <h1>Alexander Sensei Video</h1>
+
+	      <p><a class="fancybox" href="#jiyu01">Jiyu Waza</a></p>
+			<video controls="controls" id="jiyu01" style="display:none;">
+			  <source src="/video/technique/alexander/jiyu01.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/jiyu01.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/jiyu01.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#senseijiyulg">Jiyu Waza (640x480)</a></p>
+			<video controls="controls" id="senseijiyulg" style="display:none;">
+			  <source src="/video/technique/alexander/senseijiyulg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/senseijiyulg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/senseijiyulg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#2suburi">2nd Bokken Suburi</a></p>
+			<video controls="controls" id="2suburi" style="display:none;">
+			  <source src="/video/technique/alexander/2suburi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/2suburi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/2suburi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#2suburilg">2nd Bokken Suburi (640x480)</a></p>
+			<video controls="controls" id="2suburilg" style="display:none;">
+			  <source src="/video/technique/alexander/2suburilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/2suburilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/2suburilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#3suburi">3rd Bokken Suburi</a></p>
+			<video controls="controls" id="3suburi" style="display:none;">
+			  <source src="/video/technique/alexander/3suburi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/3suburi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/3suburi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#3suburilg">3rd Bokken Suburi (640x480)</a></p>
+			<video controls="controls" id="3suburilg" style="display:none;">
+			  <source src="/video/technique/alexander/3suburilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/3suburilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/3suburilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#shoirimi">Shomen-uchi Irimi-nage</a></p>
+			<video controls="controls" id="shoirimi" style="display:none;">
+			  <source src="/video/technique/alexander/shoirimi.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/shoirimi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/shoirimi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#shoirimilg">Shomen-uchi Irimi-nage (640x480)</a></p>
+			<video controls="controls" id="shoirimilg" style="display:none;">
+			  <source src="/video/technique/alexander/shoirimilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/shoirimilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/shoirimilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#stsukikote">Mune-tsuki Kote-gaeshi</a></p>
+			<video controls="controls" id="stsukikote" style="display:none;">
+			  <source src="/video/technique/alexander/stsukikote.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/stsukikote.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/stsukikote.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#stsukikotelg">Mune-tsuki Kote-gaeshi (640x480)</a></p>
+			<video controls="controls" id="stsukikotelg" style="display:none;">
+			  <source src="/video/technique/alexander/stsukikotelg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/stsukikotelg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/stsukikotelg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#sankki">Katate-dori Sankyo, Ki-no-Nagare</a></p>
+			<video controls="controls" id="sankki" style="display:none;">
+			  <source src="/video/technique/alexander/sankki.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sankki.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sankki.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#sankkilg">Katate-dori Sankyo, Ki-no-Nagare (640x480)</a></p>
+			<video controls="controls" id="sankkilg" style="display:none;">
+			  <source src="/video/technique/alexander/sankkilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sankkilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sankkilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#sitikkyo">Shomen-uchi Ikkyo, Omote Waza, Suwari Waza</a></p>
+			<video controls="controls" id="sitikkyo" style="display:none;">
+			  <source src="/video/technique/alexander/sitikkyo.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitikkyo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitikkyo.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#sitikkyolg">Shomen-uchi Ikkyo, Omote Waza, Suwari Waza (640x480)</a></p>
+			<video controls="controls" id="sitikkyolg" style="display:none;">
+			  <source src="/video/technique/alexander/sitikkyolg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitikkyolg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitikkyolg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#sitikkyoura">Shomen-uchi Ikkyo, Ura Waza, Suwari Waza</a></p>
+			<video controls="controls" id="sitikkyoura" style="display:none;">
+			  <source src="/video/technique/alexander/sitikkyoura.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitikkyoura.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitikkyoura.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#sitikkyouralg">Shomen-uchi Ikkyo, Ura Waza, Suwari Waza (640x480)</a></p>
+			<video controls="controls" id="sitikkyouralg" style="display:none;">
+			  <source src="/video/technique/alexander/sitikkyouralg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitikkyouralg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitikkyouralg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#sitsankyo">Shomen-uchi Sankyo, Ura Waza, Suwari Waza</a></p>
+			<video controls="controls" id="sitsankyo" style="display:none;">
+			  <source src="/video/technique/alexander/sitsankyo.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitsankyo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitsankyo.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#sitsankyolg">Shomen-uchi Sankyo, Ura Waza, Suwari Waza (640x480)</a></p>
+			<video controls="controls" id="sitsankyolg" style="display:none;">
+			  <source src="/video/technique/alexander/sitsankyolg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitsankyolg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitsankyolg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#sitkokyu">Suwari Kokyu-ho</a></p>
+			<video controls="controls" id="sitkokyu" style="display:none;">
+			  <source src="/video/technique/alexander/sitkokyu.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitkokyu.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitkokyu.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#sitkokyulg">Suwari Kokyu-ho (640x480)</a></p>
+			<video controls="controls" id="sitkokyulg" style="display:none;">
+			  <source src="/video/technique/alexander/sitkokyulg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitkokyulg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitkokyulg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#sitkokvar01">Suwari Kokyu-ho, Henka Waza #1</a></p>
+			<video controls="controls" id="sitkokvar01" style="display:none;">
+			  <source src="/video/technique/alexander/sitkokvar01.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitkokvar01.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitkokvar01.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#sitkokvar01lg">Suwari Kokyu-ho, Henka Waza #1 (640x480)</a></p>
+			<video controls="controls" id="sitkokvar01lg" style="display:none;">
+			  <source src="/video/technique/alexander/sitkokvar01lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitkokvar01lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitkokvar01lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#sitkokyuki">Ryote-dori Kokyu-nage, Ki-no-Nagare, Suwari Waza</a></p>
+			<video controls="controls" id="sitkokyuki" style="display:none;">
+			  <source src="/video/technique/alexander/sitkokyuki.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitkokyuki.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitkokyuki.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#sitkokyukilg">Ryote-dori Kokyu-nage, Ki-no-Nagare, Suwari Waza (640x480)</a></p>
+			<video controls="controls" id="sitkokyukilg" style="display:none;">
+			  <source src="/video/technique/alexander/sitkokyukilg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/sitkokyukilg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/sitkokyukilg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#tachidori01">Tachi-dori #1</a></p>
+			<video controls="controls" id="tachidori01" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori01.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori01.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori01.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#tachidori01lg">Tachi-dori #1 (640x480)</a></p>
+			<video controls="controls" id="tachidori01lg" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori01lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori01lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori01lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#tachidori02">Tachi-dori #2</a></p>
+			<video controls="controls" id="tachidori02" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori02.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori02.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori02.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#tachidori02lg">Tachi-dori #2 (640x480)</a></p>
+			<video controls="controls" id="tachidori02lg" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori02lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori02lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori02lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#tachidori03">Tachi-dori #3</a></p>
+			<video controls="controls" id="tachidori03" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori03.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori03.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori03.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#tachidori03lg">Tachi-dori #3 (640x480)</a></p>
+			<video controls="controls" id="tachidori03lg" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori03lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori03lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori03lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#tachidori04">Tachi-dori #4</a></p>
+			<video controls="controls" id="tachidori04" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori04.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori04.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori04.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#tachidori04lg">Tachi-dori #4 (640x480)</a></p>
+			<video controls="controls" id="tachidori04lg" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori04lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori04lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori04lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#tachidori05">Tachi-dori #5</a></p>
+			<video controls="controls" id="tachidori05" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori05.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori05.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori05.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#tachidori05lg">Tachi-dori #5 (640x480)</a></p>
+			<video controls="controls" id="tachidori05lg" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori05lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori05lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori05lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+	      <p><a class="fancybox" href="#tachidori06">Tachi-dori #6</a></p>
+			<video controls="controls" id="tachidori06" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori06.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori06.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori06.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+			<p><a class="fancybox" href="#tachidori06lg">Tachi-dori #6 (640x480)</a></p>
+			<video controls="controls" id="tachidori06lg" style="display:none;">
+			  <source src="/video/technique/alexander/tachidori06lg.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/technique/alexander/tachidori06lg.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/technique/alexander/tachidori06lg.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+
+
+	   </ouc:div>
+	</content>
+
+</page>

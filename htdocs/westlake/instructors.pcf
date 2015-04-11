@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/westlake.xsl" extension="html"?>
+
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+  
+
+  <content>
+      <ouc:div label="title" group="Everyone" button="464" >
+         <ouc:editor wysiwyg="yes" />
+
+
+
+          <h1>Training Lineage</h1>
+
+          <table width="100%">
+            <tbody>
+              <tr align="left">
+                <td>
+                  <p><img alt="O-Sensei" src="/images/osensei.jpg" /><br />
+                  <strong>O-Sensei Morihei Ueshiba 12/14/1883 -
+                  4/26/1969</strong>
+                  After he intensively studied various swordfighting and
+                  jujutsu styles, Ueshiba became famous as one of the
+                  strongest men of Japan.
+                  In 1919, he turned towards the spiritual, pacifistic
+                  teachings of the Omoto religion and started to develop the
+                  Art of Peace. In 1942,
+                  in the midst of the chaos of World War II, O-Sensei named
+                  his new martial art <strong>Aikido</strong>, and moved to
+                  the small country town of Iwama.
+                  There he continued to practice, teach and refine Aikido
+                  until he passed away in 1969.</p>
+                </td>
+              </tr>
+
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+
+              <tr align="right">
+                <td>
+                  <p><img alt="Saito Sensei" src="/images/saito2.jpg" /><br />
+                  <strong><a href="/masters/saito_bio.html">Morihiro Saito Sensei</a>
+                  3/31/1928 - 5/13/2002</strong>
+                  9th Dan Aikikai. Being an Iwama native, Morihiro Saito
+                  started training in Aikido in 1946 and became not only a
+                  student,
+                  but a close confidant of O-Sensei for the following 23
+                  years. After the founder's death, he was put in charge of
+                  the Iwama dojo
+                  and became the guardian of the Aiki-shrine. Today, he is
+                  also known for his books, his clear and structured way of
+                  teaching,
+                  and the organization of the huge number of techniques that
+                  comprise <strong>Iwama-style Aikido</strong>. It is through
+                  Saito Sensei's
+                  timeless Iwama style techniques, that the teachers and
+                  students of Westlake Village Aikido will always remember
+                  him.</p>
+                </td>
+              </tr>
+
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+
+              <tr align="left">
+                <td>
+                  <p><img alt="Alexander Sensei" src="/images/david.gif" /><br />
+                  <strong><a href="/masters/alexander_bio.html">David G. Alexander
+                  Sensei</a> 10/11/1945 -</strong>
+                  6th Dan Aikikai. The Founder and Chief Instructor of
+                  Westlake Village Aikido.</p>
+                </td>
+              </tr>
+
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr />
+
+          <h3>Westlake Village Aikido Instructors</h3>
+
+          <table width="100%">
+            <tbody>
+              <tr align="right">
+                <td>
+                  <p><img alt="Casey Rodgers" src="/images/casey.jpg" /><br />
+                  <strong>Casey Rodgers, 4th Dan</strong>
+                  Rodgers Sensei began studying Aikido when he was 18. Prior
+                  to that time he dabbled in various
+                  other styles of martial arts but frequent moving prevented
+                  him from becoming grounded
+                  anywhere. Twelve years ago he found Alexander Sensei and
+                  has been there ever since.
+                  Rodgers Sensei believes an honest approach to your training
+                  is best suited to your
+                  survival in this world. Acknowledging your chosen style's
+                  strengths is easy, but
+                  acknowledging your style's weakness and doing something
+                  about it, is not.
+                  To that end he is always on the lookout for something he
+                  can "steal" from
+                  other martial art styles and has been training Karate for
+                  the past&nbsp;ten years.</p>
+                </td>
+              </tr>
+
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+
+              <tr align="left">
+                <td>
+                  <p><img alt="Chris Powell" src="/images/powell.jpg" /><br />
+                  <strong>Chris Powell, 4th Dan, Business
+                  Director</strong>
+                  Powell Sensei's first taste of Aikido came in 1978 while in
+                  7th grade. He trained for
+                  about 6 months before the dojo moved. After the dojo moved,
+                  Powell Sensei could no
+                  longer make it to the class, but that brief experience was
+                  enough to hook him for life.
+                  He spent the next 15 years looking for something to fill
+                  his need for Aikido.
+                  He trained Tang-Soo-Do from 1983 to 1987 while stationed
+                  at
+                  Lackland Air Force Base in San Antonio, Texas.
+                  From 1987 to 1988 it was Tae-Kwan-Do while stationed in
+                  Taegu, Korea.
+                  Then there was Kempo Karate from 1990 to 1992 in Newbury
+                  Park, California.
+                  Powell Sensei finally found Alexander Sensei in 1993 and
+                  he's been here ever since.
+                  Powell Sensei feels that "Training Aikido (with Alexander
+                  Sensei) has filled a large
+                  void left in my life that was created in '78".</p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+</ouc:div>
+</content>
+</page>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pcf-stylesheet path="/_resources/xsl/default.xsl" extension="html"?>
+<!DOCTYPE document SYSTEM "http://www.gallenauniversity.com/_resources/dtd/standard.dtd">
+<document>
+<config>
+   <!-- com.omniupdate.properties -->
+   <parameter name="color" type="select" group="Everyone" prompt="Color" alt="Page Type">
+      <option value="red" selected="true">Full width</option>
+      <option value="green" selected="false">Left Column</option>
+      <option value="blue" selected="false">Left and Right Columns</option>
+   </parameter>
+   <parameter name="keywords" type="checkbox" group="Everyone" prompt="Keywords" alt="Select keywords that relate to this page.">
+      <option value="academics" selected="false">Academics</option>
+      <option value="admissions" selected="false">Admissions</option>
+      <option value="matriculation" selected="false">Matriculation</option>
+      <option value="athletics" selected="true">Athletics</option>
+      <option value="sports" selected="true">Sports</option>
+      <option value="basketball" selected="true">Basketball</option>
+      <option value="football" selected="true">Football</option>
+      <option value="volleyball" selected="true">Volleyball</option>
+      <option value="tennis" selected="true">Tennis</option>
+   </parameter>
+   <parameter name="author" type="text" group="Everyone" prompt="Author" alt="Please tell us your name."></parameter>
+   <meta name="description" content="Athletics at Gallena University!" />
+   <!-- /com.omniupdate.properties -->
+</config>
+<!-- com.omniupdate.properties -->
+<title>Gallena University Athletics</title>
+<!-- /com.omniupdate.properties -->
+<content>
+</content>
+</document> 

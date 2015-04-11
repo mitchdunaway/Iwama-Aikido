@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/austin.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         <h1>2nd Kyu Testing Requirements</h1>
+
+<ol>
+	<li>Shomen-uchi Ikkyo-nage</li>
+
+	<li>Katate-dori Kote-gaeshi (gyaku)</li>
+
+	<li>Katate-dori Ikkyo (ki-no-nagare)</li>
+
+	<li>Katate-dori Kaiten-nage (ki-no-nagare) <a href="/movies/kaiten.mov">View Technique</a>
+	</li>
+
+	<li>Yokomen-uchi Irimi-nage (katai)</li>
+
+	<li>Yokomen-uchi Sumi-otoshi-osae</li>
+
+	<li>Morote-dori Nikkyo <a href="/movies/mornikkyo.mov">View Technique</a>
+	</li>
+
+	<li>Morote-dori Kokyu-nage (mae, katai)</li>
+
+	<li>Morote-dori Kokyu-nage (mae, ki-no-nagare)</li>
+
+	<li>Tsuki Kokyu-nage (mae)</li>
+
+	<li>Ryokata-dori Kokyu-nage (mae, ki-no-nagare)</li>
+
+	<li>Ryote-dori Kokyu-nage (mae, ki-no-nagare)</li>
+
+	<li>Yokomen-uchi Kokyu-nage (mae, ki-no-nagare) <a href="/movies/yokokokyulg.mov">View Technique</a>
+	</li>
+
+	<li>Ryote-dori Koshi-nage (atama-iri)</li>
+
+	<li>Ryote-dori Koshi-nage (atama-irenai)</li>
+
+	<li>Jiyu-waza (hitori-no-kogeki)</li>
+
+	<li>5th Kumitachi</li>
+
+	<li>Ki-Musubi-no-Tachi</li>
+
+	<li>Jo 13 Kata</li>
+
+	<li>31 Kumijo Awase
+
+		<ol class="a">
+			<li>1-3</li>
+
+			<li>4-6</li>
+
+			<li>9-11</li>
+
+			<li>13-17</li>
+
+			<li>18-22</li>
+
+			<li>22-27</li>
+
+			<li>27-31</li>
+		</ol>
+	</li>
+</ol>
+	   </ouc:div>
+	</content>
+
+</page>

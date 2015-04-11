@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=media" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	      <h1>Videos from Seminars</h1>
+	      	<h2>Robert Koga Practical Aikido Seminar: February 9th and 10th, 2002</h2>
+	      	<p><a class="fancybox" href="#koga01">Pain in the leg</a></p>
+			<video controls="controls" id="koga01" style="display:none;">
+			  <source src="/video/event/koga/koga01.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga01.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga01.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga02">Kokyunage</a></p>
+			<video controls="controls" id="koga02" style="display:none;">
+			  <source src="/video/event/koga/koga02.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga02.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga02.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga03">Trap #1 from a punch</a></p>
+			<video controls="controls" id="koga03" style="display:none;">
+			  <source src="/video/event/koga/koga03.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga03.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga03.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga04">Trap #2 from a punch</a></p>
+			<video controls="controls" id="koga04" style="display:none;">
+			  <source src="/video/event/koga/koga04.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga04.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga04.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga05">Throw from arm bar</a></p>
+			<video controls="controls" id="koga05" style="display:none;">
+			  <source src="/video/event/koga/koga05.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga05.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga05.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga06">Throw from low tackle</a></p>
+			<video controls="controls" id="koga06" style="display:none;">
+			  <source src="/video/event/koga/koga06.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga06.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga06.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga07">One finger throw</a></p>
+			<video controls="controls" id="koga07" style="display:none;">
+			  <source src="/video/event/koga/koga07.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga07.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga07.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga08">One finger throw #2</a></p>
+			<video controls="controls" id="koga08" style="display:none;">
+			  <source src="/video/event/koga/koga08.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga08.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga08.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga09">Allen gets a beating</a></p>
+			<video controls="controls" id="koga09" style="display:none;">
+			  <source src="/video/event/koga/koga09.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga09.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga09.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga10">Kubinage</a></p>
+			<video controls="controls" id="koga10" style="display:none;">
+			  <source src="/video/event/koga/koga10.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga10.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga10.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	      	<p><a class="fancybox" href="#koga11">Throw from a rear choke</a></p>
+			<video controls="controls" id="koga11" style="display:none;">
+			  <source src="/video/event/koga/koga11.webm" type='video/webm; codecs="vp8, vorbis"' />
+			  <source src="/video/event/koga/koga11.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			  <source src="/video/event/koga/koga11.ogv" type='video/ogg; codecs="theora, vorbis"' />
+			</video>
+	   </ouc:div>
+	</content>
+
+</page>

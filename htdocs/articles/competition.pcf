@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=articles" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         <h1>Aikido and Competition</h1>
+
+<div>
+	<p>A general perception of Aikido is that there are no competitions. This
+	is generally true, although there as some styles which have limited
+	competitions. Tomiki style, for example, has matches using tanken (short
+	swords) with dull blades, and specific rules for scoring points.</p>
+
+	<p>Also, some trainees like to test each other to see if they can make
+	their techniques work against other trainees who are resisting with full
+	power, and vice-versa. This is constructive in moderation since any
+	weaknesses and defects in technique become immediately clear, as long as
+	the primary goals of perfecting technique and developing cordial
+	relationships with other trainees is maintained in the forefront.</p>
+
+	<p>However, these diversions are not comparable to the type of competitions
+	found in karate and other martial arts in which a contestant is free to use
+	a variety of techniques in a relatively spontaneous manner for the express
+	purpose of winning a victory over another contestant.</p>
+
+	<p>An official explanation for the lack of competition in Aikido is that
+	this particular martial art is based on harmony, and competition is the
+	antithesis of its primary objective. Although this is certainly valid, a
+	brief review of the derivation of Aikido from older martial art forms will
+	show that there is also a very practical reason for discouraging Aikido
+	trainees from going at each other flat out.</p>
+
+	<p>An interesting little book entitled "Judo, Appendix Aikido", by Kenji
+	Tomiki (the founder of the above referenced Tomiki style of Aikido), which
+	was published in 1956, includes a chart showing classes of "Judo"
+	technique. These are classified into two main categories, "Aiki techniques"
+	and "Randori techniques".</p>
+
+	<p>The Aiki techniques are described as a "system of techniques in the
+	applying of which it is considered most ideal not to be seized by the
+	opponent", and include "Kansetsu techniques" (bending or twisting joints)
+	and "Atemi techniques" (attacking vital points).</p>
+
+	<p>The Randori techniques are described as a "system of techniques to be
+	applied by seizing hold of each other", and include grappling techniques
+	and throwing techniques.</p>
+
+	<p>Although Tomiki considers Judo to include both classes of techniques, he
+	writes that "practice in these techniques of attacking the vital points and
+	bending or twisting the joints is not to be carried on by means of contests
+	as in the case of the randori techniques, for from the nature of those
+	techniques it is attended with danger".</p>
+
+	<p>Different martial arts focus on different aspects of applying and
+	controlling force (karate emphasizes atemi, judo emphasizes grappling and
+	throwing, etc.). In general, however, if a martial art is to provide a
+	forum for competition which minimizes the possibility of death and serious
+	injury, the forum must necessarily include rules which prohibit the more
+	dangerous techniques. This was implemented in the case of judo by allowing
+	only randori techniques in contests.</p>
+
+	<p>Aikido went in the opposite direction from Judo. To quote from
+	"Traditional Aikido", by Morihiro Saito, Vol. V, "It is a well-known fact
+	that matches are prohibited in Aikido. This is because Aikido has inherited
+	a number of lethal techniques from its Founder, which render matches too
+	dangerous an exercise, and also because the art purports to place no
+	restrictions on every conceivable movement.</p>
+
+	<p>If the rules are set and dangerous techniques are excluded from the
+	matches, Aikido undoubtedly will lose its raison d'etre. If matches are to
+	be held, all the techniques will have to be scaled down to those consisting
+	mainly of Atemi or the contestants will have to either stake their lives or
+	wear protective gear. A question also arises whether the form of the
+	competition should be limited to empty-handed techniques or should also
+	include the use of weaponry.</p>
+
+	<p>Even if only empty-handed techniques are allowed, the techniques
+	inherent with Aikido are too terrific to make Ukemi (rolls and somersaults
+	in defense) possible. True, such Ukemi against throwing is made possible
+	deliberately in training sessions. However, execution of techniques becomes
+	uninhibited in matches and the dangers involved are obvious. The answer to
+	the question of why Aikido is not identified with a sport or a contest is
+	simple".</p>
+
+	<p>No single martial art can provide everything, and Aikido sacrifices
+	competition in favor of including potentially dangerous techniques which
+	were originally developed for lethal combat and handed down from our
+	predecessors. Fortunately, there are many excellent martial art styles
+	which offer competition and are available for persons who are so
+	oriented.</p>
+
+	<p>All people are different, and those who are interested in martial arts
+	should seek out a style which best suits their personality and goals. If
+	one martial art does not provide everything they are looking for, they may
+	consider training in several.</p>
+
+	<p>A good strategy is to select the most apparently suitable martial art as
+	primary, and train long enough to develop a high level of proficiency.
+	Then, seek out other martial arts and incorporate their teachings into the
+	primary system. This is, in fact, an excellent way to become a true and
+	well rounded martial artist.</p>
+</div>
+	   </ouc:div>
+	</content>
+
+</page>

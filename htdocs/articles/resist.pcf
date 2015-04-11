@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=articles" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+<h1>Constructive and Counterproductive Use of Resistance in Aikido
+Training</h1>
+
+<div>
+	<p>The four levels of training in Aikido were presented in a previous
+	Dragon Times article (vol. 5, p. 31). These levels are:</p>
+
+	<ol class="a">
+		<li>KATAI (rigid)</li>
+
+		<li>YAWARAKAI (resilient)</li>
+
+		<li>KI-NO-NAGARE (flowing)</li>
+
+		<li>KI (spirit)</li>
+	</ol>
+
+	<p>Aikido is generally associated with KI-NO-NAGARE technique, and some
+	persons train this way exclusively in an almost dance-like manner. I
+	personally consider it unfortunate that a widespread public conception of
+	Aikido is based on this image.</p>
+
+	<p>To quote a passage from a book written my teacher, Morihiro Saito Sensei
+	(9-dan), entitled Traditional Aikido Vol. 5, p. 36, Aikido is generally
+	believed to represent circular movements. Contrary to such belief, however,
+	Aikido, in its true Ki form, is a fierce art piercing straight through the
+	center of opposition.</p>
+
+	<p>It is vitally important to establish a solid foundation in KATAI
+	technique before moving on to KI-NO-NAGARE, and to continue training KATAI
+	to prevent losing touch with the basics. A person who is proficient in
+	KATAI can easily learn KI-NO-NAGARE, but a person who has trained only
+	KI-NO-NAGARE will often not be able to move at all if gripped strongly.
+	KATAI training is what tunes a trainee into the reality of physical
+	strength and how to overcome it under the worst possible conditions.</p>
+
+	<p>It is often said that Aikido techniques do not require muscular strength
+	to perform, and that it is not harmonious to resist a training partner who
+	is attempting to perform a technique. Although there is some truth to this
+	statement, it is based on an incomplete understanding of the nature of
+	physical power and resistance.</p>
+
+	<p>Beginners in Aikido rely on muscular strength to overcome resistance.
+	This is natural, and should not be discouraged because it is all they have
+	at the time. As trainees progress, they become proficient in technique, and
+	less muscular strength becomes necessary to overcome resistance.</p>
+
+	<p>In parallel, trainees develop KOKYU-RYOKU (abdominal breath power) as a
+	direct result of their physical training. KOKYU-RYOKU is much stronger than
+	muscular power, and eventually the techniques become almost effortless,
+	even against strong resistance. After a number of years of hard and
+	dedicated KATAI training, it becomes true that Aikido requires little
+	muscular strength.</p>
+
+	<p>After a number of decades, it is possible to enter level 4 (KI) which is
+	much stronger than KOKYU-RYOKU. However, beginners should not think about
+	this, because they will only become frustrated.</p>
+
+	<p>Constructive resistance is not a break of harmony, but on the contrary
+	the ultimate in harmony because trainees help each other to develop at the
+	fastest possible rate.</p>
+
+	<p>Senior trainees are paired with junior trainees in basic training.
+	Senior trainees, with their superior knowledge, are able to provide the
+	right amount and direction of resistance so that the junior partner must
+	struggle to feel out how to overcome the resistance and learn the
+	technique. Junior trainees are encouraged to resist senior partners with
+	everything they have (generally pure muscular power), so that the senior
+	trainees can hone their technique against full resistance.</p>
+
+	<p>Although dance-like movements can be learned without resistance,
+	constructive resistance is necessary to learn effective technique because
+	without resistance a trainee does not know if the technique is really
+	working. Constructive resistance provides the feedback and guidance that
+	are necessary to deal effectively with the reality of physical
+	strength.</p>
+
+	<p>In basic training, constructive resistance is directly against the
+	technique. At advanced levels, constructive resistance can include
+	uninhibited attempts to escape or reverse the technique.</p>
+
+	<p>Resistance is only constructive if it results in trainees growing and
+	improving their technique and spirit. The level of resistance must not be
+	excessive, because trainees will never learn techniques if they are
+	prevented from performing them. Preventing a trainee from performing a
+	technique is further counterproductive in that it defeats self-confidence
+	and self-esteem.</p>
+
+	<p>The proper level of resistance is such that a trainee is able to
+	complete a technique with great difficulty. This is also extremely good
+	physical exercise, straining many muscles of the body. Beginners, however,
+	must sometimes be given negative resistance such that they are physically
+	guided to perform the proper movements.</p>
+
+	<p>Resistance is counterproductive if it is based on egotism, or a desire
+	to compete with, humiliate or intimidate a training partner. Under no
+	circumstances should a training partner be deliberately injured or
+	subjected to a dangerous situation. The purpose of constructive resistance
+	is to help a training partner learn effective technique, and
+	counterproductive resistance defeats this purpose.</p>
+
+	<p>In summary, Aikido does require little muscular strength if it is
+	learned correctly, and resistance is not harmonious if it is applied
+	counterproductively. However, muscular power and constructive resistance
+	are vital elements in Aikido training, and constitute stepping stones to
+	higher levels.</p>
+</div>
+	   </ouc:div>
+	</content>
+
+</page>

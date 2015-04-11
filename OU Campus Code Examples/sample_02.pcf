@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pcf-stylesheet path="/_resources/xsl/default.xsl" extension="html"?>
+<!DOCTYPE document SYSTEM "http://www.gallenauniversity.com/_resources/dtd/standard.dtd">
+<document>
+<config>
+<!-- com.omniupdate.properties -->
+<parameter name="details_box" type="radio" group="Everyone" prompt="Details Box" alt="Enable the Details Box?">
+<option value="true" selected="true">Yes</option>
+<option value="false" selected="false">No</option>
+</parameter>
+<!-- /com.omniupdate.properties -->
+</config>
+<!-- com.omniupdate.properties -->
+<title>Gallena University Athletics</title>
+<!-- /com.omniupdate.properties -->
+<content>
+</content>
+</document> 

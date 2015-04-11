@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=masters" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         
+	      	<h1>Master Instructor Profiles</h1>
+
+	      	<h2><a href="/masters/saito_bio.html">Morihiro Saito Sensei</a></h2>
+			<p><img alt="Saito Sensei" src="/images/saito2.jpg" /><br />			
+			<strong>3/31/1928 - 5/13/2002</strong><br />
+			9th Dan Aikikai. Being an Iwama native, Morihiro Saito
+			started training in Aikido in 1946 and became not only a
+			student, but a close confidant of O-Sensei for the following 23
+			years. After the founder's death, he was put in charge of
+			the Iwama dojo and became the guardian of the Aiki-shrine. Today, he is
+			also known for his books, his clear and structured way of
+			teaching, and the organization of the huge number of techniques that
+			comprise <strong>Iwama-style Aikido</strong>. It is through
+			Saito Sensei's timeless Iwama style techniques, that the teacher and
+			students of Austin Iwama Aikido will always remember
+			him.</p>
+
+			<h2><a href="/masters/alexander_bio.html">David G. Alexander Sensei</a></h2>
+			<p><img alt="Alexander Sensei" src="/images/david.gif" /><br />
+			<strong> 10/11/1945 -</strong><br />
+			6th Dan Aikikai. The Founder and Chief Instructor of Westlake Village Aikido.</p>
+
+	   </ouc:div>
+	</content>
+
+</page>

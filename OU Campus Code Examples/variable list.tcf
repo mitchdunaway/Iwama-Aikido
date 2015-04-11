@@ -1,0 +1,18 @@
+<variable-list>
+   <variable name="title"></variable>
+   <variable name="description></variable>
+   <variable name="color" type="select" output="xml">
+      <option value="red">Red Text</option>
+      <option value="green">Green Text</option>
+      <option value="blue">Blue Text</option>
+   </variable>
+   <variable name="keywords" type="checkbox" output="xml">
+      <option value="sports">Sports</option>
+      <option value="academics">Academics</option>
+      <option value="admissions">Admissions</option>
+   </variable>
+   <variable name="fullpage" type="radio" output="xml">
+      <option value="true">Yes</option>
+      <option value="false">No</option>
+  </variable>
+</variable-list>

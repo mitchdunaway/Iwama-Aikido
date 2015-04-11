@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pcf-stylesheet path="faculty-directory.xsl" extension="html"?>
+<?pcf-stylesheet path="faculty-directory-csv.xsl" extension="csv" alternate="yes"?>
+<!DOCTYPE document [ 
+	<!ENTITY nbsp "&#160;">
+	<!ENTITY copy "&#169;">
+	<!ENTITY trade "&#8482;">
+]> 
+
+<!-- Example document -->
+
+<data>
+
+<document>
+	<title>
+		<!-- com.omniupdate.div label="title" group="Everyone" button="464" -->
+		<!-- com.omniupdate.editor wysiwyg="yes" -->
+		Faculty Directory
+		<!-- /com.omniupdate.div -->
+	</title>
+</document>
+
+
+<people>
+
+<person>
+<first>Dean</first>
+<last>Carlson</last>
+<phone>(555) 526-8216</phone>
+<email>dean@gallena.edu</email>
+<title>Professor of Electrical Engineering</title>
+<department>Science Division</department>
+<picture>http://deployment17.omniupdate.com/images/dean.gif</picture>
+</person>
+
+<person>
+<first>Carol</first>
+<last>Amanson</last>
+<phone>(555) 526-4236</phone>
+<email>carol@gallena.edu</email>
+<title>Professor of Statistics</title>
+<department>Science Division</department>
+<picture>http://deployment17.omniupdate.com/images/carol.jpg</picture>
+</person>
+
+<person>
+<first>Ray</first>
+<last>Russel</last>
+<phone>(555) 526-4984</phone>
+<email>ray@gallena.edu</email>
+<title>Professor of Marketing</title>
+<department>Business Administration Division</department>
+<picture>http://deployment17.omniupdate.com/images/jeff.jpg</picture>
+</person>
+
+<person>
+<first>David</first>
+<last>Harlow</last>
+<phone>(555) 526-4234</phone>
+<email>david@gallena.edu</email>
+<title>Associate Professor of English</title>
+<department>Teacher Education Division</department>
+<picture>http://deployment17.omniupdate.com/images/david.jpg</picture>
+</person>
+
+<person>
+<first>Michelle</first>
+<last>Wilson</last>
+<phone>(555) 526-7730</phone>
+<email>michele@gallena.edu</email>
+<title>Instructor of Mathematics</title>
+<department>Natural Science Division</department>
+<picture>http://deployment17.omniupdate.com/images/michelle.jpg</picture>
+</person>
+
+<person>
+<first>Victor</first>
+<last>Nivens</last>
+<phone>(555) 526-4135</phone>
+<email>victor@gallena.edu</email>
+<title>Chair of English Literature</title>
+<department>Teacher Education Division</department>
+<picture>http://deployment17.omniupdate.com/images/victor.jpg</picture>
+</person>
+
+<person>
+<first>Jerry</first>
+<last>Rush</last>
+<phone>(555) 526-4270</phone>
+<email>jerry@gallena.edu</email>
+<title>Instructor of Computer Science</title>
+<department>CS Division</department>
+<picture>http://deployment17.omniupdate.com/images/jerry.jpg</picture>
+</person>
+
+<person>
+<first>Doug</first>
+<last>Wiseman</last>
+<phone>(555) 526-4280</phone>
+<email>doug@gallena.edu</email>
+<title>Professor of Mathematics</title>
+<department>Natural Science Division</department>
+<picture>http://deployment17.omniupdate.com/images/doug.jpg</picture>
+</person>
+
+<person>
+<first>Jeff</first>
+<last>Thomas</last>
+<phone>(555) 526-6788</phone>
+<email>jeff@gallena.edu</email>
+<title>Professor of History</title>
+<department>Humanities Division</department>
+<picture>http://deployment17.omniupdate.com/images/ray.jpg</picture>
+</person>
+
+<person>
+<first>Julie</first>
+<last>Polsie</last>
+<phone>(555) 526-6788</phone>
+<email>julie@gallena.edu</email>
+<title>Professor of Statistics</title>
+<department>Science Division</department>
+<picture>http://deployment17.omniupdate.com/images/julie.jpg</picture>
+</person>
+
+</people>
+
+</data>

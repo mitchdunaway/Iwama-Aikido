@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"b",
+				"br	Tag"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"htmn",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Erlang)"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/PC/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/sensei_video.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/Media_Index.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/Media_Image.html",
+		"/C/Users/PC/Downloads/fancybox/fancyapps-fancyBox-v2.1.5-0-ge2248f4/fancyapps-fancyBox-18d1712/README.md",
+		"/C/Users/PC/Desktop/php.ini",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/tahoe2010.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/articles/iwamawisdom.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/styles/main.css",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/xsl/austin.xsl",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/xsl/main.xsl",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/osenseiken02.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/Saito_Bio.html",
+		"/C/Users/PC/Desktop/temp.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/pcf_template.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/senseigi.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/osenseiken03.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/osenseiken01.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/m1.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/takako01.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/fumiko.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/kazumari.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/benten.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/swemag.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/site backup/sensei04.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/austin/index.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/xsl/main.xsl",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/exams/josuburi.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/exams/shodan.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/exams/kyu1.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/exams/kyu2.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/exams/kyu3.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/exams/kyu4.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/exams/kyu5.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/exams/index.pcf",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 2/Packages/XML/XML.sublime-settings",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/index.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/budo.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/competition.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/westlake/instructors.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/about_aikido.pcf",
+		"/C/Users/PC/AppData/Local/Temp/TextEditorAnywhere_20_21_55.xml",
+		"/C/Users/PC/AppData/Local/Temp/TextEditorAnywhere_20_22_20.xml",
+		"/C/Users/PC/AppData/Local/Temp/TextEditorAnywhere_20_21_11.xml",
+		"/C/Users/PC/AppData/Local/Temp/TextEditorAnywhere_20_18_19.txt",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/xsl/index_wva.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/xsl/index_aia.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/design/information architecture/info_architecture_01.txt",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/design/information architecture/responsive needs.txt",
+		"/C/Users/PC/Development/Resources/basicTemplate.html",
+		"/C/Users/PC/Downloads/golden_frog_test/styles.css",
+		"/C/Users/PC/Downloads/mitch_dunaway_html_css_exercise/index.html",
+		"/C/Users/PC/Downloads/golden_frog_test/index.html",
+		"/C/Users/PC/Development/Projects/iconkraft/rev05/site/index.html",
+		"/C/Users/PC/Development/Resources/HTML5 Boilerplate/h5bp-html5-boilerplate-478f1ad/css/boilerplate.css",
+		"/C/Users/PC/Development/Resources/HTML5 Boilerplate/h5bp-html5-boilerplate-478f1ad/css/styles.css",
+		"/C/Users/PC/Development/Projects/Squire/Squire_blue/index.php",
+		"/C/Users/PC/Development/Projects/Squire/Squire_blue/clock.php",
+		"/C/Users/PC/AppData/Local/Temp/fz3temp-1/ik_login.php",
+		"/C/Users/PC/Development/Resources/XML/xsl_template.xsl",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/awase.pcf",
+		"/C/Users/PC/Development/Projects/Squire/Squire_blue/classes.php",
+		"/C/Users/PC/Development/Projects/Squire/Squire_blue/smarty/templates/index.tpl",
+		"/C/Users/PC/Development/Projects/Squire/Squire_blue/smarty/templates/clock.tpl",
+		"/C/Users/PC/Development/Projects/Squire/Squire_blue/js/script.js",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/proof of concept/main.xsl",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/xsl/nav_articles.xsl",
+		"/C/Users/PC/Downloads/Help us bring you more customized content.eml",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/htdocs/articles.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/proof of concept/index.pcf",
+		"/C/Users/PC/Desktop/Life Questions.txt",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/proof of concept/main.css",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/proof of concept/index.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/OU Campus Code Examples/faculty-directory.xsl",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/code/main.css",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/code/index.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/code/index.pcf",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/code/main.xsl",
+		"/C/Users/PC/Desktop/html5_test_results.html",
+		"/C/Users/PC/Downloads/webfontkit-20130731-233109/stylesheet.css",
+		"/C/Users/PC/AppData/Local/Temp/Temp1_webfontkit-20130731-235529.zip/stylesheet.css",
+		"/C/Users/PC/Development/Projects/iconkraft/rev05/site/css/styles.css",
+		"/C/Users/PC/Desktop/html_test_results.html",
+		"/C/Users/PC/Desktop/js_test_results.html",
+		"/C/Users/PC/Development/Projects/home.houston.rr.htm",
+		"/C/Users/PC/Development/Projects/Squire/Squire_yellow/index.php",
+		"/C/Users/PC/Development/Projects/iconkraft/rev05/site/css/reset.css",
+		"/C/Users/PC/Documents/Job Hunt/2013/July/Charity Dynamics cover letter.txt",
+		"/C/Users/PC/Documents/Job Hunt/2010/May 2010/Mitch Dunaway Cover Letter BioWare.doc",
+		"/C/Users/PC/Downloads/faculty-directory.pcf",
+		"/C/Users/PC/Downloads/faculty-directory-2.pcf",
+		"/C/Users/PC/Downloads/faculty-directory.xsl",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/OU Campus Code Examples/sample_02.pcf",
+		"/C/Users/PC/Development/Resources/XML/real_data_files/86064-6/tutorial.06x/tutorial/stock.xml",
+		"/C/Users/PC/Development/Resources/XML/real_data_files/86064-6/tutorial.06x/tutorial/stock.css",
+		"/C/Users/PC/Development/Resources/XML/real_data_files/86064-6/tutorial.06x/tutorial/stock.xsl",
+		"/C/Users/PC/Downloads/faculty-directory.xsl/faculty-directory.xsl",
+		"/C/Users/PC/Downloads/faculty-directory/faculty-directory.pcf",
+		"/C/Users/PC/Development/Resources/XML/real_data_files/86064-6/tutorial.06x/tutorial/stocktxt.xsl",
+		"/C/Users/PC/Development/Resources/XML/real_data_files/86064-6/tutorial.06x/tutorial/stocktxt.xml",
+		"/C/Users/PC/Development/Resources/XML/data_files/86064-6/tutorial.06x/tutorial/stock.xsl",
+		"/C/Users/PC/Development/Resources/XML/data_files/86064-6/tutorial.06x/tutorial/stock.xml",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/test/testhead.html",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/test/test.html",
+		"/C/Users/PC/Educational Networks/Work/06/common_files/footer.jsp",
+		"/C/Users/PC/Educational Networks/Work/06/common_files/header.jsp",
+		"/C/Users/PC/Educational Networks/Work/06/common_files/main.jsp",
+		"/C/Users/PC/Educational Networks/Work/06/LAPORTE-D/shared/main.css",
+		"/C/Users/PC/Desktop/Credentials.txt",
+		"/C/Users/PC/Development/Projects/Iwama Aikido/OU Campus Code Examples/variable list.tcf",
+		"/C/Users/PC/AppData/Local/Temp/fz3temp-1/repair.php",
+		"/C/Users/PC/Downloads/Ftp iconkraf_logs@iconkraft.com.xml",
+		"/C/Users/PC/Development/Projects/MyRosenHomes/site_ver3/about.html",
+		"/C/Users/PC/Development/Projects/MyRosenHomes/site_ver3/footer.html",
+		"/C/Users/PC/Development/Projects/MyRosenHomes/site_ver3/header.html",
+		"/C/Users/PC/Development/Projects/MyRosenHomes/site_ver3/sidebar.html",
+		"/C/Users/PC/AppData/Local/DOSBox/dosbox-0.74.conf",
+		"/C/Users/PC/Educational Networks/Work/05/redesign/shared/main.css",
+		"/C/Users/PC/Educational Networks/Work/05/redesign/index.jsp",
+		"/C/Users/PC/Downloads/Sansumi-fontfacekit/Sansumi-ExtraBold-webfont.ttf",
+		"/C/Users/PC/Downloads/tatami.php",
+		"/C/Users/PC/Development/Projects/MyRosenHomes/site_ver1/js/script.js",
+		"/C/Program Files (x86)/Ampps/www/wp/wp-content/themes/twentyeleven/header.php",
+		"/C/Users/PC/Development/Resources/Typekit/localhost_includes.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"src=\"images",
+			"href=\"images",
+			"<BR>",
+			"<BR>\\n",
+			"ulf(\\d{2}).html",
+			"party(\\d{2}).html",
+			"data-lightbox=\"\"",
+			"\"\"",
+			"\">",
+			"</a></p>",
+			"<p><a",
+			"<p></p>",
+			"http://www.iwama-aikido.com",
+			"&nbsp;&nbsp;&nbsp;</p>",
+			"&nbsp;&nbsp;&nbsp; ",
+			"path=\"/xsl",
+			"href=\"",
+			"<span\\b[^>]*>(.*?)</span>",
+			"<span style=\n\"FONT-FAMILY: Garamond; FONT-SIZE: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA\">",
+			"articles",
+			"<br />",
+			"jpg\">",
+			"<br>",
+			"src=\"",
+			"src=\"images",
+			"src=\"",
+			"2",
+			"\n",
+			"FF2A1D",
+			"E8DFD6",
+			"065F73",
+			"032C36",
+			"021B21",
+			"1em",
+			"#DDD",
+			"#e5e5e5",
+			";\n",
+			"#social",
+			"../",
+			"<p>",
+			"src=\"\"",
+			"nav",
+			"../b",
+			"breeserif",
+			"fonts",
+			"/fonts",
+			"questrial",
+			"michroma",
+			"questrial-regular-webfont",
+			"michroma",
+			"-webfont",
+			"<br>",
+			"</A>",
+			"<a",
+			"<A",
+			"br",
+			"BR",
+			"br",
+			"BR",
+			"/pics",
+			"pics",
+			"/pics/bg_vert",
+			"bg_vert",
+			"pics",
+			"/pics/bg_texture.png",
+			"menu",
+			"Template Name:",
+			"(/",
+			"\"/",
+			"tabs",
+			"class=\"hidden\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"/images",
+			" ",
+			"/images/Aikido_Ulf-$1.jpg",
+			"/images/party01/$1.jpg",
+			"\" title=\"\" data-lightbox=\"\">",
+			"\" data-lightbox=\"kogaparty\">",
+			"<\\/a>\\n<\\/p>",
+			"<p>\\n\\t\\t\\t<a",
+			"",
+			"\\n\\t\\t\\t<\\/p>",
+			"\\n\\t\\t\\t",
+			"path=\"/westlake/xsl",
+			"href=\"/",
+			"",
+			"jpg\" />",
+			"<br />",
+			"src=\"/images",
+			"src=\"/",
+			"1BD72B",
+			"37781E",
+			"AEFF0B",
+			"FFA400",
+			"E86C00",
+			"<%= school %>/pics"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}

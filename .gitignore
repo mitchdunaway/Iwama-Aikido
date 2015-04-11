@@ -17,6 +17,38 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# font files
+*.eot
+*.svg
+*.ttf
+*.woff
+
+# Documents
+*.odt
+*.pdf
+
+# Image Files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# movie files
+*.mov
+*.mp4
+*.ogv
+*.webm
+*.avi
+
+# Image Authoring files
+*.psd
+*.ai
+
+# Zip files
+*.zip
+
+
+
 # =========================
 # Operating System Files
 # =========================

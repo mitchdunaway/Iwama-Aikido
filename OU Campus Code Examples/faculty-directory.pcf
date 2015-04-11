@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pcf-stylesheet path="/faculty/directory/directory.xsl" extension="shtml"?>
+
+<data>
+
+<document>
+	<title>
+		<!-- com.omniupdate.div label="title" group="everyone" button="795" break="break" --><!-- com.omniupdate.editor wysiwyg="yes" csspath="/z-omniupdate/css/edit-pagetitle.css" -->Gallena University Academics
+		<!-- /com.omniupdate.div -->
+	</title>
+	<topcontent>
+		<!-- com.omniupdate.div label="topcontent" group="everyone" button="787" break="break" -->
+		<!-- com.omniupdate.editor wysiwyg="yes" csspath="/z-omniupdate/css/edit-main.css" -->
+		<p>List All Departments</p>
+		<p>Area Code for Gallena University is 555</p>
+		<!-- /com.omniupdate.div -->
+	</topcontent>
+	<directory>
+      <member>
+         <name>AVERY, STEVE</name>
+         <title>PROFESSOR</title>
+         <department>ENGINEERING AND COMPUTER SCIENCE</department>
+         <phone>555-5526</phone>
+         <office>COM 211</office>
+         <email>avery@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>BILLISDON, DAVID</name>
+         <title>PROFESSOR</title>
+         <department>COMPUTER SCIENCE</department>
+         <phone>555-5214</phone>
+         <office>COM 106</office>
+         <email>billisdon@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>BLAUSER, JENNIFER</name>
+         <title>PROFESSOR</title>
+         <department>HISTORY</department>
+         <phone>555-5316</phone>
+         <office>HIS 231</office>
+         <email>blauser@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>BROWN, KENNITH</name>
+         <title>PROGRAM ASSISTANT I</title>
+         <department>ACADEMIC ADVISING CENTER</department>
+         <phone>555-5698</phone>
+         <office>PLA 664</office>
+         <email>kennith@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>CASTILLO, NANCY</name>
+         <title>DIRECTOR</title>
+         <department>ACADEMIC ADVISING CENTER</department>
+         <phone>555-4578</phone>
+         <office>PLA 445</office>
+         <email>nancy@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>DAVIDSON, IRENE</name>
+         <title>PROFESSOR</title>
+         <department>CHICANO STUDIES</department>
+         <phone>555-5611</phone>
+         <office>CHC 209</office>
+         <email>davidson@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>GREER, HENRY</name>
+         <title>INTERIM STUDENT DEVELOP SPEC</title>
+         <department>ACADEMIC ADVISING CENTER</department>
+         <phone>555-1254</phone>
+         <office>PLA 332</office>
+         <email>greer@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>GLAVINE, TIM</name>
+         <title>ASSISTANT PROFESSOR</title>
+         <department>CHICANO STUDIES</department>
+         <phone>555-9623</phone>
+         <office>CHC 211</office>
+         <email>glavine@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>GLESNE-COULTER, ANN</name>
+         <title>PROFESSOR OF HISTORY</title>
+         <department>HISTORY</department>
+         <phone>555-9513</phone>
+         <office>HIS 232</office>
+         <email>glesne@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>GREENE, CYNTHIA</name>
+         <title>PROFESSOR</title>
+         <department>MATH</department>
+         <phone>555-5921</phone>
+         <office>MATH 207</office>
+         <email>greene@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>HANNITY,CARLA</name>
+         <title>PROFESSOR</title>
+         <department>ENGINEERING</department>
+         <phone>555-5534</phone>
+         <office>ENG 205</office>
+         <email>hannity@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>HUNTER, BRIAN</name>
+         <title>COACH BASKETBA</title>
+         <department>ATHLETICS</department>
+         <phone>555-5511</phone>
+         <office>ADM 105B</office>
+         <email>hunter@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>LAMAR, DEBRA</name>
+         <title>DIR. OF ADMISSIONS &amp; RECORDS</title>
+         <department>ADMISSIONS AND RECORDS</department>
+         <phone>555-9512</phone>
+         <office>ADM 105</office>
+         <email>debra@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>LEMBISH, MAURA</name>
+         <title>PROFESSOR</title>
+         <department>BIOLOGY</department>
+         <phone>555-0926</phone>
+         <office>BIO 103</office>
+         <email>lembish@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>MERKER, LAURA</name>
+         <title>ADMIN ASSISTANT I</title>
+         <department>ADMISSIONS AND RECORDS</department>
+         <phone>555-3649</phone>
+         <office>ADM 206A</office>
+         <email>merker@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>MONINA, SUSAN</name>
+         <title>ADMIN ASSISTANT II</title>
+         <department>ADMISSIONS AND RECORDS</department>
+         <phone>555-8513</phone>
+         <office>ADM 221</office>
+         <email>susan@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>NADIA, AVJA</name>
+         <title>PROFESSOR</title>
+         <department>SPEECH</department>
+         <phone>555-5511</phone>
+         <office>SPE 202B</office>
+         <email>avija@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>POLLEN, GEORGE</name>
+         <title>ADMISSIONS COUNSELOR</title>
+         <department>ADMISSIONS AND RECORDS</department>
+         <phone>555-4469</phone>
+         <office>ADM 221</office>
+         <email>george@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>SAVAGE, FRED</name>
+         <title>COACH</title>
+         <department>ATHLETICS</department>
+         <phone>555-6029</phone>
+         <office>ATH 209</office>
+         <email>savage@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>SMITH, PETER</name>
+         <title>PROFESSOR</title>
+         <department>BIOLOGY</department>
+         <phone>555-5206</phone>
+         <office>BIO 218</office>
+         <email>smith@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>STERLING, FRANK</name>
+         <title>PROFESSOR</title>
+         <department>ENGINEERING</department>
+         <phone>555-5519</phone>
+         <office>ENG 103</office>
+         <email>sterling@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>THOMAS, CRAIG</name>
+         <title>ADMIN ASSISTANT II</title>
+         <department>ADMISSIONS AND RECORDS</department>
+         <phone>555-7713</phone>
+         <office>ADM 211A</office>
+         <email>craig@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>THOMAS, HEATHER</name>
+         <title>PROFESSOR</title>
+         <department>HISTORY</department>
+         <phone>555-5532</phone>
+         <office>HIS 233</office>
+         <email>thomas@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>TRUISI, BELINDA</name>
+         <title>TRAINER</title>
+         <department>ATHLETICS</department>
+         <phone>555-5602</phone>
+         <office>ATH 203</office>
+         <email>truisi@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>WEINGART, CAROL</name>
+         <title>PROFESSOR</title>
+         <department>BIOLOGY</department>
+         <phone>555-5529</phone>
+         <office>BIO 102</office>
+         <email>weingart@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>WILSON, TIM</name>
+         <title>PRESIDENT</title>
+         <department>ADMINISTRATION</department>
+         <phone>555-5623</phone>
+         <office>ADM 302</office>
+         <email>willson@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>WILLIAMS, MINDY</name>
+         <title>BASKETBALL COACH</title>
+         <department>ATHLETICS</department>
+         <phone>555-6029</phone>
+         <office>ATH 201</office>
+         <email>williams@gallenauniversity.com</email>
+      </member>
+      <member>
+         <name>WILLIAMS, TED</name>
+         <title>ADMIN ASSISTANT II</title>
+         <department>ADMISSIONS AND RECORDS</department>
+         <phone>555-5511</phone>
+         <office>ADM 105B</office>
+         <email>tedwilliams@gallenauniversity.com</email>
+      </member>
+   </directory>
+	<bottomcontent>
+		<!-- com.omniupdate.div label="bottomcontent" group="everyone" button="787" break="break" --><!-- com.omniupdate.editor wysiwyg="yes" csspath="/z-omniupdate/css/edit-main.css" parag="no" --><font size="2">
+		GALLENA UNIVERSITY</font><br />
+		<font size="1">
+		2314 Running Springs Rd.<br />
+		Gallena, CA 91255-4901 USA (555) 555-9401<br />
+		Copyright © 1995-2007 Gallena University</font><br />
+		<!-- /com.omniupdate.div -->
+	</bottomcontent>
+</document>
+
+</data>
+
+

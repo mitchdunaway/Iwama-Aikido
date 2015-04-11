@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- uses a proprietary pcf-stylesheet element instead of the normal xml-stylesheet element
+this comes with special attributes
+path is the path to the XSL file
+extension specifies what the output file extension will be -->
+<?pcf-stylesheet path="path to XSL file" extension="html"?>
+
+<!-- HTML entities are undefined in XML, so these can be defined in the DTD -->
+<!DOCTYPE document [ 
+	<!ENTITY nbsp "&#160;">
+	<!ENTITY copy "&#169;">
+	<!ENTITY trade "&#8482;">
+]> 
+
+<data>
+
+<!-- OUCampus defines many tags that can be used in a PCF file that allow users to update content. The following example shows a few. -->
+<document>
+	<title>
+		<!-- com.omniupdate.div label="title" group="Everyone" button="464" -->
+		<!-- com.omniupdate.editor wysiwyg="yes" -->
+		Faculty Directory
+		<!-- /com.omniupdate.div -->
+	</title>
+</document>
+
+</data>

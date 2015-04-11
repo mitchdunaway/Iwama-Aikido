@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=articles" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+
+
+<h1>AWASE - The Principle of AIKI</h1>
+<div>
+<p>The spectrum of martial arts is larger than any one person can learn in a lifetime.  A student generally picks one martial art that appears to best suited his personality, trains in it for a number of years, and then uses it as a base to explore other martial arts and add selected pieces to what becomes his personal system.</p>
+
+<p>The entirety of martial arts can be viewed as a huge jigsaw puzzle with many thousands of pieces.  Each martial art focuses on one or more sections of the puzzle and therefore a subset of the pieces.  There is also considerable overlap between the subsets.  For example, punching is common to almost all martial arts which include unarmed techniques.  Contending that one martial art is superior to another is meaningless because they relate to different sections of the puzzle.</p>
+
+<p>Also associated with the particular focus of every martial art is some aspect which makes it unique in relation to the others.  In AIKIDO this is AWASE, which can also be called the principle of AIKI.  AWASE literally means "come together", and AIKIDO is generally the "way of uniting with KI (spirit)".</p>
+
+<p>Saito-sensei stressed the principle of Awase every day in our training in Iwama.</p>
+
+<p>The concept of AWASE is to merge into an opponent's attacking movement and take control.  During the initial engagement the defender maintains perfect balance and perfect stance, whereas the technique is designed such that the balance and stance of the attacker are destroyed.  The attacker is thereby brought under control immediately.  The technique is completed by continuing the movement into a joint lock, pin, throw, etc.</p>
+
+<p>A general conception of AIKIDO is that the principle is to use an attacker's own power against him.  Although this is true to some extent, AWASE is more dynamic.  The defender uses his own body movement to merge into the attacker's power.  It is also possible to initiate a movement that will create an attack into the defender's sphere of control.  After the initial engagement, the attacker's power is irrelevant because his balance is gone and he cannot bring his power to bear.</p>
+
+<p>As an analogy to AWASE, consider trying to stop a train that is coming down the tracks.  Standing on the tracks and trying to stop the train by physically overpowering it will not be expected to work.  However, running next to the train, jumping aboard, moving to the engineer's compartment, overcoming the engineer and applying the brakes will produce the desired result of stopping the train.  This is comparable to AWASE in that no attempt is made to directly oppose power, but control is gained by merging into the power and disabling it.</p>
+
+<p>The founder of AIKIDO, Morihei Ueshiba O-sensei, spent many years adapting techniques from Daito-Ryu Jujitsu and other martial arts to embody the principle of AWASE.  A number of these older techniques included movements that at least obliquely opposed an opponent's power and required considerable physical strength to perform.  O-sensei modified these techniques by subtly changing directions so that the opposition was eliminated and the initial movements always merge into the direction of the attack.</p>
+
+<p>Many people in AIKIDO use the term "blending with an opponent's power" rather than "merging into an opponent's power".  I personally think that the concept of "blending" is non-descriptive and deceptively passive.  "Blending" conjures up an image of tossing vegetables, fruits, etc. into a juicer/blender and turning on the switch.  After a while the blender produces a homogeneous mass in which the individual ingredients are indistinguishable from each other.</p>
+
+<p>Blending would result in both people ending up in the same situation and being indistinguishable from each other.  This is not what happens in AWASE, which is a dynamic act resulting in the defender gaining control over the attacker and being clearly distinguished therefrom.</p>
+
+<p>Anyway, semantics aside, it is hoped that the reader will gain from the above presentation an understanding of the aspect of AIKIDO that makes it unique among martial arts.  Actual application of AWASE is subtle and takes considerable training to master, but that is one of the things that makes AIKIDO so fascinating and challenging to learn.</p>
+</div>
+	   </ouc:div>
+	</content>
+
+</page>

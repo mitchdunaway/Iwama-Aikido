@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=media" extension="html"?>
+
+<!DOCTYPE document [ 
+<!ENTITY nbsp "&#160;">
+<!ENTITY copy "&#169;">
+<!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+		<ouc:div label="title" group="Everyone" button="464" >
+
+			<ouc:editor wysiwyg="yes" />
+
+			<h1>Seminar Images</h1>
+			<h2>Takemusu Aikido Association Memorial Day Weekend Gashuku 2010</h2>
+
+			<ul class="thumbs clearfix">
+				<li><a href="/images/gashuku 2010 large photo (2).jpg" data-lightbox="gashuku2010" title="Field Sensei attended the Takemusu Aikido Association 2010 Memorial Day Weekend Gashuku.  He is seated in the second row, off on the right side of the picture, third from center."><img src="/images/thumbs/tgashuku2010.jpg" /></a></li>
+			</ul>
+			<hr/>
+
+			<h2>Assault a Former Teacher Night, Westlake Village Aikido, October 14th, 2009</h2>
+			<ul class="thumbs clearfix">
+				<li><a href="/images/formerteachernight/IMG_5022.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5022.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5049.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5049.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5052.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5052.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5066.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5066.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5072.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5072.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5076.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5076.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5077.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5077.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5093.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5093.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5098.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5098.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5103.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5103.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5109.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5109.jpg" /></a></li>
+				<li><a href="/images/formerteachernight/IMG_5121.JPG" data-lightbox="formerteacher2009" title=""><img src="/images/thumbs/tIMG_5121.jpg" /></a></li>
+			</ul>
+			<hr/>
+			<h2>Alexander Sensei Seminar, Sweden, February 2002</h2>
+			<ul class="thumbs clearfix">
+				<li><a href="/images/sweden/Sweden1.jpg" data-lightbox="Sweden" title=""><img src="/images/thumbs/tsweden1.jpg" /></a></li>
+				<li><a href="/images/sweden/Sweden2.jpg" data-lightbox="Sweden" title=""><img src="/images/thumbs/tsweden2.jpg" /></a></li>
+				<li><a href="/images/sweden/Sweden3.jpg" data-lightbox="Sweden" title=""><img src="/images/thumbs/tsweden3.jpg" /></a></li>
+				<li><a href="/images/sweden/Sweden4.jpg" data-lightbox="Sweden" title="From left to right: Elaine Evenås, Ulf Evenås Sensei, Ester Evenås, David Alexander Sensei, and Alma Evenås."><img src="/images/thumbs/tsweden4.jpg" /></a></li>
+				<li><a href="/images/sweden/Sweden5.jpg" data-lightbox="Sweden" title="From left to right: Lars Anderson Sensei, David Alexander Sensei, and Ulf Evenås Sensei."><img src="/images/thumbs/tsweden5.jpg" /></a></li>
+				<li><a href="/images/sweden/sweden6.jpg" data-lightbox="Sweden" title="A group photo from Alexander Sensei's seminar in Sweden. Photo courtesy of Jöran Fagerlund"><img src="/images/thumbs/tsweden6.jpg" /></a></li>
+				<li><a href="/images/sweden/sweden07.jpg" data-lightbox="Sweden" title="Alexander Sensei performing Koshinage. Photo courtesy of Jöran Fagerlund"><img src="/images/thumbs/tsweden07.jpg" /></a></li>
+				<li><a href="/images/sweden/sweden08.jpg" data-lightbox="Sweden" title="Alexander Sensei performing Iriminage. Photo courtesy of Jöran Fagerlund"><img src="/images/thumbs/tsweden08.jpg" /></a></li>
+				<li><a href="/images/sweden/sweden09.jpg" data-lightbox="Sweden" title="Alexander Sensei performing Iriminage Henka Waza. Photo courtesy of Jöran Fagerlund"><img src="/images/thumbs/tsweden09.jpg" /></a></li>
+				<li><a href="/images/sensei/swemag.jpg" data-lightbox="Sweden" title="An article on Alexander Sensei's 2002 seminar in Sweden from the Nr 3/2002 issue of Fighter Magazine (from Sweden)."><img src="/images/thumbs/tswemag.jpg" /></a></li>
+			</ul>
+			<hr/>
+			<h2>Koga Seminar, Westlake Village Aikido, February 9th and 10th, 2002</h2>
+			<ul class="thumbs clearfix">
+				<li><a href="/images/koga/kogagroup01.jpg" data-lightbox="KogaSeminar" title="After training, February 9th, 2002"><img src="/images/thumbs/tkogagroup01.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem01.jpg" data-lightbox="KogaSeminar" title="Christopher Field thanking Koga Sensei for the great seminar."><img src="/images/thumbs/tkogasem01.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem02.jpg" data-lightbox="KogaSeminar" title="Koga Sensei in the middle of an amusing story."><img src="/images/thumbs/tkogasem02.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem03.jpg" data-lightbox="KogaSeminar" title="Koga Sensei enjoying himself at the seminar."><img src="/images/thumbs/tkogasem03.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem04.jpg" data-lightbox="KogaSeminar" title="Koga Sensei watching over the students as they practice."><img src="/images/thumbs/tkogasem04.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem05.jpg" data-lightbox="KogaSeminar" title=""><img src="/images/thumbs/tkogasem05.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem06.jpg" data-lightbox="KogaSeminar" title="Koga Sensei brings his hand up into Josafath's face."><img src="/images/thumbs/tkogasem06.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem07.jpg" data-lightbox="KogaSeminar" title="Koga Sensei delivers a smack to the eyes."><img src="/images/thumbs/tkogasem07.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem08.jpg" data-lightbox="KogaSeminar" title="Many students gather around to listen to Koga Sensei during one of the breaks in training."><img src="/images/thumbs/tkogasem08.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem09.jpg" data-lightbox="KogaSeminar" title="Robert Koga Sensei and Josafath Magana."><img src="/images/thumbs/tkogasem09.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem10.jpg" data-lightbox="KogaSeminar" title="Kevin Price and Neil Frerichs listen to Koga Sensei's instruction."><img src="/images/thumbs/tkogasem10.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem11.jpg" data-lightbox="KogaSeminar" title="Neil Frerichs watches as Koga Sensei explains a technique."><img src="/images/thumbs/tkogasem11.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem12.jpg" data-lightbox="KogaSeminar" title="Josafath Magana takes a fall."><img src="/images/thumbs/tkogasem12.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem13.jpg" data-lightbox="KogaSeminar" title="Koga Sensei demonstrates an extremely painful leg pin."><img src="/images/thumbs/tkogasem13.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem14.jpg" data-lightbox="KogaSeminar" title=""><img src="/images/thumbs/tkogasem14.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem15.jpg" data-lightbox="KogaSeminar" title=""><img src="/images/thumbs/tkogasem15.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem16.jpg" data-lightbox="KogaSeminar" title="Various students training during the seminar."><img src="/images/thumbs/tkogasem16.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem17.jpg" data-lightbox="KogaSeminar" title="Koga Sensei demonstrates a technique on Allen."><img src="/images/thumbs/tkogasem17.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem18.jpg" data-lightbox="KogaSeminar" title="Chris 'Gorilla Hands' Powell enjoys a Sankyo from Koga Sensei."><img src="/images/thumbs/tkogasem18.jpg" /></a></li>
+				<li><a href="/images/koga/kogasem19.jpg" data-lightbox="KogaSeminar" title="Koga Sensei being choked from behind."><img src="/images/thumbs/tkogasem19.jpg" /></a></li>
+			</ul>
+			<hr/>
+			<h2>Hiroshi Isoyama Sensei Seminar, Santa Clarita, October 1999</h2>
+			<ul class="thumbs clearfix">
+				<li><a href="/images/ISO01.JPG" data-lightbox="HiroshiIsoyamaSeminar" title="From left to right: Steven Glasberg, James Paulson, Hiroshi Isoyama Sensei, Christopher S. Field, and Scott McGinnis, October 1999."><img src="/images/thumbs/Tiso01.jpg" /></a></li> 
+				<li><a href="/images/iso02.jpg" data-lightbox="HiroshiIsoyamaSeminar" title="Hiroshi Isoyama Sensei and Christopher S. Field, October 1999."><img src="/images/thumbs/Tiso02.jpg" /></a></li>
+			</ul>
+
+		</ouc:div>
+	</content>
+
+</page>

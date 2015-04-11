@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=masters" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+
+	      	<h1>David G. Alexander Sensei</h1>
+
+	      	<h2>6th Dan</h2>
+
+	      	<p><img alt="David Alexander" src="/images/senseibio.jpg" /></p>
+	      	
+	      	<h3>Biography</h3>
+
+	      	<p>David Alexander-sensei grew up in Chicago, and joined the United States navy after graduating from high school in 1963. He served four years on a destroyer as a gunfire control technician, including a tour of duty in Vietnam where he controlled heavy naval artillery in support of ground troops, and received a citation from the commander of the seventh fleet for outstanding performance of duty.</p>
+
+	      	<p>He studied for the college entrance exams between fire missions in Vietnam and scored high enough to be accepted at the Massachusetts Institute of Technology (MIT) in 1967, from which he graduated with a degree in mechanical engineering in 1971.</p>
+
+	      	<p>In 1968 he enrolled in the New England Aikikai and trained there until his MIT graduation with Matsunari Kanai-sensei. During this time he attended seminars with sensei Koichi Tohei and Yoshimitsu Yamada.</p>
+
+	      	<p>In the winter of 1971 he moved to Tokyo and enrolled in the Aikikai Hombu, training for several months with numerous sensei including Doshu Kisshomaru Ueshiba, the son of the founder of Aikido.</p>
+
+	      	<p>In the summer of 1972 he visited Iwama, met Morihiro Saito-sensei, and stayed to train for three days. After numerous trips from Tokyo to Iwama to train with Saito-sensei, he moved to Iwama in the winter of 1972. There he trained at the Ibaraki Dojo with Saito-sensei for approximately 10 years between 1972 and 1984, and was promoted to shodan (1st degree black belt) in 1973. While in Iwama he trained with many people from all over the world, including numerous university and military groups, as well as the Iwama locals.</p>
+
+	      	<p>In 1974, he accompanied Saito-sensei as assistant and interpreter on Saito-sensei's first overseas trip, teaching seminars in California and Hawaii.</p>
+
+	      	<p>In 1980, he was guest Aikido instructor in Whangarei, New Zealand where, for a period of six months, he taught civilian and police classes and seminars.</p>
+
+	      	<p>In 1982, he accompanied Saito-sensei as assistant and interpreter on his second European tour, teaching seminars in Germany, Denmark and Sweden.</p>
+
+	      	<p>While in Iwama, he began a career as a registered patent agent, which he continued for 27 years, retiring in 2000 after working for a number of patent law firms in Tokyo and Los Angeles and obtaining several thousand patents for high tech companies in Japan, Silicon Valley and Los Angeles.</p>
+
+	      	<p>He returned to America in 1984 and founded the Westlake Village Aikido Club in 1989. He was promoted to rokudan (6th degree black belt) in 1992 and continued teaching at WVAC until relocating to Nevada in 2004. WVAC continues to offer high quality Iwama style Aikido instruction under the teaching of some of his top students.</p>
+
+	   </ouc:div>
+	</content>
+
+</page>

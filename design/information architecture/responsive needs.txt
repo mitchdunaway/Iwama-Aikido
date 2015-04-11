@@ -1,0 +1,40 @@
+universal Elements:
+(?)background graphics
+*header
+	-*name
+	-*subdomain
+	-Osensei
+	-logo
+menu
+	-navigation
+	-subnavigation
+	-enroll button
+	-social icons
+content
+footer
+	-site name
+	-logo
+	-iconkraft
+	-credits
+	-link to legal
+	-copyright
+	-(?)navigation
+	-social icons
+
+homepage elements
+slideshow
+widgets
+
+internal pages
+section navigation
+content
+
+
+restrictions:
+Information has to be 'serialized'
+the navigation has to be accessible but out of the way
+navigation heirarchy has to be retained but can't take up space
+the header has to shink to fit space
+cannot rely on hover states (drop down menus)
+
+

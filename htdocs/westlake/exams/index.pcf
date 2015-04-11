@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/westlake.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+
+			<h1>Austin Village Aikido Testing Requirements</h1>
+			<hr />
+			<p><strong><a href="/westlake/exams/kyu5.html">5th Kyu (Gokyu)</a></strong> – Three months regular training.  At least six weapons classes.  A bokken and jo must be purchased prior to the exam.</p>
+
+			<p><strong><a href="/westlake/exams/kyu4.html">4th Kyu (Yonkyu)</a></strong> – Four months regular training since 5th kyu.  At least eight weapons classes since the student’s last exam.  It is recommended that the student show interest in helping out with the dojo chores.</p>
+
+			<p><strong><a href="/westlake/exams/kyu3.html">3rd Kyu (Sankyu)</a></strong> – Five months regular training since 4th kyu.  At least ten weapons classes since the student’s last exam.  The student should be proficient at ukemi, able to protect himself/herself from any type of throw performed on them at a reasonable pace.</p>
+
+			<p><strong><a href="/westlake/exams/kyu2.html">2nd Kyu (Nikyu)</a></strong> – Six months regular training since 3rd kyu.  At least eighteen weapons classes since the student’s last exam.  The student should be able to demonstrate clean attacks, and have a thorough understanding of each.</p>
+
+			<p><strong><a href="/westlake/exams/kyu1.html">1st Kyu (Ikkyu)</a></strong> – Six months regular training since 2nd kyu.  At least eighteen weapons classes since the student’s last exam.  The student should show initiative in helping lower kyu with their upcoming exams.  It is recommended that the student have attended at least one seminar or visited another dojo since 2nd kyu.</p>
+
+			<p><strong><a href="/westlake/exams/shodan.html">1st Dan (Shodan)</a></strong> – Eight months regular training since 1st kyu.  At least twenty-four weapons classes since the student’s last exam.  The student should have focus and intensity when training.  The student should be able to deliver honest, realistic attacks.  The student should be quite proficient at ukemi (tobu-ukemi recommended), as to protect himself/herself from any type of throw performed on them at a fast pace.  It is recommended that the student have attended at least one seminar or visited another dojo since 1st kyu.</p>
+
+			<p><strong>2nd Dan (Nidan) and Above</strong> – These ranks are only available from Alexander Sensei when he thinks an individual is ready.  The Board of Directors will keep Alexander Sensei abreast of each student’s progress.</p>
+
+			 
+			<div style="font-size: smaller;">
+				<p>Note: These are only the minimum testing requirements.  Only when these requirements are met will the Board of Directors begin to look at a student for promotion.  Each person must progress at his or her own pace.  No student should ever expect to test by a certain time.</p>
+
+				<p>Regular training is considered at least three days a week.</p>
+
+				<p>The Board of Directors realizes that the frequency of the weapons classes vary, so this will be taken into account when totaling the number of weapons classes each student has attended.</p>
+			</div>
+
+	   </ouc:div>
+	</content>
+
+</page>

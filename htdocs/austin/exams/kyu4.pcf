@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/austin.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	      	<h1>4th Kyu Testing Requirements</h1>
+
+	      	<ol>
+	      		<li>Shomen-uchi Ikkyo (omote, ura) <a href="/movies/ikkyo.mov">View Ikkyo Omote</a>, <a href="/movies/ikkyouralg.mov">View Ikkyo Ura</a>
+	      		</li>
+
+	      		<li>Shomen-uchi Nikkyo (omote, ura) <a href="/movies/shonikomlg.mov">View Nikkyo Omote</a>, <a href="/movies/shonikuralg.mov">View Nikkyo Ura</a>
+	      		</li>
+
+	      		<li>Shomen-uchi Sankyo (omote, ura) <a href="/movies/shosanomlg.mov">View Sankyo Omote</a>, <a href="/movies/shosanuralg.mov">View Sankyo Ura</a>
+	      		</li>
+
+	      		<li>Yokomen-uchi Ikkyo (omote, ura) <a href="/movies/yokikomlg.mov">View Omote</a>, <a href="/movies/yokikuralg.mov">View Ura</a>
+	      		</li>
+
+	      		<li>Ryote-dori Ikkyo (omote, ura) <a href="/movies/ryikomlg.mov">View Omote</a>
+	      		</li>
+
+	      		<li>Morote-dori Ikkyo (omote, ura) <a href="/movies/morikomlg.mov">View Omote</a>
+	      		</li>
+
+	      		<li>Shomen-uchi Shiho-nage (omote) <a href="/movies/shoshiomlg.mov">View Technique</a>
+	      		</li>
+
+	      		<li>Yokomen-uchi Shiho-nage (omote) <a href="/movies/yokshiomlg.mov">View Technique</a>
+	      		</li>
+
+	      		<li>Ryote-dori Shiho-nage (omote) <a href="/movies/ryshiomlg.mov">View Technique</a>
+	      		</li>
+
+	      		<li>Shomen-uchi Kote-gaeshi <a href="/movies/shokotelg.mov">View Technique</a>
+	      		</li>
+
+	      		<li>Yokomen-uchi Kote-gaeshi</li>
+
+	      		<li>Ryote-dori Kote-gaeshi</li>
+
+	      		<li>Shomen-uchi Irimi-nage <a href="/movies/iriminage.mov">View Technique</a>
+	      		</li>
+
+	      		<li>Yokomen-uchi Irimi-nage <a href="/movies/yokirimi4lg.mov">View Technique</a>
+	      		</li>
+
+	      		<li>Ryote-dori Irimi-nage <a href="/movies/ryirimilg.mov">View Technique</a>
+	      		</li>
+
+	      		<li>Katate-dori Kokyu-nage <a href="/movies/katatekokyulg.mov">View Technique</a>
+	      		</li>
+
+	      		<li>Katate-dori Kaiten-nage</li>
+
+	      		<li>Ken Awase (migi and hidari)</li>
+
+	      		<li>Ken Awase (5th and 7th suburi)</li>
+
+	      		<li>Ken Happo-giri</li>
+
+	      		<li>Jo 31 Kata</li>
+	      	</ol>
+	   </ouc:div>
+	</content>
+
+</page>

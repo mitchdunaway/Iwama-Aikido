@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=masters" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         <h1>Morihiro Saito Shihan</h1>
+
+	         <h2>9th Dan</h2>
+
+	         <p><img src="/images/saitoformal.jpg" width="324" /></p>
+
+         	<p>Morihiro Saito, a native of Iwama, joined the Iwama Dojo as a live-in student at age 18. He was to become one of O-sensei's closest disciples, spending nearly every day with him for 23 years. After O-Sensei's death in 1969, Aikido spread out into several different lineages or styles under O-Sensei's various disciples. Saito Shihan, however, remained in Iwama as head instructor of the Iwama Dojo. He took it as his duty to preserve aikido's roots--what he calls "the Founder's techniques"--the locks and throws O-Sensei taught on a daily basis at the Iwama Dojo. Saito Shihan's own innovation was to develop a systematic method for transmitting the Founder's techniques. This method has become known as the "Iwama Style." The style stresses mental focus and coordinated body movement as the source of power in techniques. While Aikido's spiritual values are essential to the practice, they are nurtured non-verbally through sincere training and cooperation among the trainees.</p>
+
+         	<p><a href="/articles/saito_interview.html">Saito Sensei Interview</a></p>
+	   </ouc:div>
+	</content>
+
+</page>

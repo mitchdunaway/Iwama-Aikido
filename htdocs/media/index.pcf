@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/main.xsl" params="is_nav=true;page_nav=media" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         
+	      	<h1>Media</h1>
+	      	<h2>Images</h2>
+	      	<p>You can find images of from Alexander Sensei's personal collection along with publicity photos on the <a href="/media/image/">main images page.</a></p>
+	      	<p><a href="/media/image/party.html">On this page</a> are photos taken from some parties at the Westlake dojo</p>
+	      	<p>Pictures taken from previous seminars can be found <a href="/media/image/seminar.html">here</a></p>
+
+	      	<h2>Video</h2>
+	      	<p>Techinque demonstration videos are <a href="/media/video/">on this page.</a></p>
+	      	<p><a href="/media/video/alexander.html">Videos of Alexander Sensei</a></p>
+	      	<p><a href="/media/video/seminar.html">Videos from previous seminars</a></p>
+	      	<p><a href="/media/video/demo.html">Videos from public demonstrations</a></p>
+
+
+	   </ouc:div>
+	</content>
+
+</page>

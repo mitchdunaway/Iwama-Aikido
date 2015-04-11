@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/dev02/austin.xsl" extension="html"?>
+
+<!-- HTML entities are undefined in XML, so these can be defined in the DTD -->
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	
+
+	<content>
+      <ouc:div label="title" group="Everyone" button="464" >
+         <ouc:editor wysiwyg="yes" />
+      <div id="left_column" class="hp-column center">
+   
+   <a id="enroll_button" href="https://secure.jotform.com/form/21036669059963">Enroll Now!</a>
+     
+         <!-- 		  <div><a href="http://www.facebook.com/austiniwamaaikido"><img alt="Follow Austin Iwama Aikido on Facebook" src="/images/facebookbadge.gif" width="144" height="44" /></a></div> -->
+
+        <div class="fb-like-box" data-href="https://www.facebook.com/austiniwamaaikido" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
+   
+   <div>
+      <h3>Location:</h3>
+      8516 Anderson Mill Rd.<br/>
+      Suite #100<br/>
+      Austin, Texas 78729<br/>
+      (512)&nbsp;257-8552<br/>
+      <a href="mailto:austiniwamaaikido@gmail.com">Contact Us - Email</a><br/>
+      at <a href="http://www.aimandfocus.com/"><em>Aim and Focus Karate</em></a>
+   </div>
+
+      
+   <div>
+      <h3>Class Schedule:</h3>   
+         
+      <table border="0" summary="Class Schedule">
+         <tr>
+            <td>
+               Monday
+            </td>
+            <td>
+               7:30 - 8:30&nbsp;pm
+            </td>
+         </tr>
+         <tr>
+            <td>
+               Tuesday
+            </td>
+            <td>
+               8:15 - 9:20&nbsp;am
+            </td>
+         </tr>
+         <tr>
+            <td>
+               Wednesday
+            </td>
+            <td>
+               7:30 - 8:30&nbsp;pm
+            </td>
+         </tr>
+         <tr>
+            <td>
+               Friday
+            </td>
+            <td>
+               8:15 - 9:20&nbsp;am
+            </td>
+         </tr>
+         <tr>
+            <td>
+               Sunday (Open Mat)
+            </td>
+            <td>
+               11:00&nbsp;am - 12:45&nbsp;pm
+            </td>
+         </tr>
+      </table>
+      
+   </div>
+      
+   
+</div><!-- #left_column -->   
+      
+<div id="middle_column" class="hp-column center">
+   
+	<img alt="Austin Iwama Aikido" src="/images/logo2.gif" style="margin: 1em auto ; display: block; width: 90%; max-width: 213px;" />
+   
+   <h3>Fees:</h3>
+   <p>$35 per month tuition for auto-draft students <em>($5 discount!)</em><br/>
+   $40 per month tuition for invoiced students<br/>
+   $20 one-time uniform fee (can be waived if you already have a suitable uniform)</p> 
+   
+   <h3>Visit Us!</h3>
+   <p>Anybody interested in Aikido is welcome to observe as many classes as they like, at any time. <br/>
+   Students from other dojos are welcome to train for a $5 per class mat fee.<br/>
+   Students must be at least 14 years old.</p>
+
+   
+</div><!-- #middle_column --> 
+
+<div id="right_column" class="hp-column">
+
+   <h3>About Our Dojo</h3>
+   <p>Austin Iwama Aikido was founded by Christopher S. Field in 2010.  Field Sensei is a Yondan (fourth degree black belt) with over 21 years of experience in Aikido.<br/>
+Field Sensei was trained by <a href="/masters/alexander_bio.html">David Alexander</a>, one of the top Iwama Aikido teachers in America, who spent over 10 years studying under <a href="/masters/saito_bio.html">Morihiro Saito Shihan</a> in Iwama, Japan.<br/>
+After Alexander Sensei’s retirement, Field Sensei became the Technical Director of <a href="{{f:2610262}}">Westlake Village Aikido</a> where he continued to teach until moving to Austin in 2006.<br/>
+Field Sensei has also been fortunate enough to study with many of Aikido’s top instructors including Morihiro Saito, Hiroshi Isoyama, Bill Witt, and Robert Koga.<br/>
+The Aikido training at Austin Iwama Aikido follows Saito Shihan's traditional Aikido style and teaching methods.</p>
+   
+</div><!-- #right_column -->
+   </ouc:div>
+</content>
+</page>

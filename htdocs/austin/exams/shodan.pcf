@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?pcf-stylesheet path="/xsl/austin.xsl" params="is_nav=true;page_nav=exams" extension="html"?>
+
+<!DOCTYPE document [ 
+   <!ENTITY nbsp "&#160;">
+   <!ENTITY copy "&#169;">
+   <!ENTITY trade "&#8482;">
+]> 
+
+
+<page xmlns:ouc="http://www.iconkraft.com">
+
+	<content>
+	   <ouc:div label="title" group="Everyone" button="464" >
+	      <ouc:editor wysiwyg="yes" />
+	         <h1>Shodan Testing Requirements</h1>
+
+	         <ol>
+	         	<li>Shomen-uchi Ikkyo (omote and ura)</li>
+
+	         	<li>Ushiro Eri-tori Ikkyo (omote and ura)</li>
+	         	
+	         	<li>Ushiro Ryote-dori Ikkyo (two waza)</li>
+				 
+	         	<li>Kata-dori Nikkyo (ura waza)</li>
+				 				 
+	         	<li>Kata-dori Nikkyo (henka waza, arm straight)</li>
+				
+				<li>Kata-dori Nikkyo (henka waza, elbow up)</li>
+				 				
+				<li>Gyakute-dori Nikkyo</li>
+				 				
+				<li>Ushiro Muna-dori Nikkyo</li>
+				 				
+				<li>Shomen-uchi Sankyo (haya waza)</li>
+				 				 				
+				<li>Mune-dori Sankyo (omote and ura)</li>
+				 				 				
+				<li>Yokomen-uchi Sankyo (omote and ura)</li>
+				 				 				
+				<li>Gyakute-dori Yonkyo (omote and ura)</li>
+				 				 				 				
+				<li>Ushiro Ryokata-dori Yonkyo (omote and ura)</li>
+				 				 				 				
+				<li>Gyaku dori, Mune-tsuki Gokkyo (tanken dori)</li>
+				 				 				 				
+				<li>Shomen-uchi Rokkyo</li>
+				 				 				 				 				
+				<li>Katate-dori Rokkyo</li>
+				 				 				 				 				 				
+				<li>Katate-dori Nanakyo</li>
+				 				 				 				 				 				
+				<li>Katate-dori Shiho-nage (four directions)</li>
+				 				 				 				 				 				 				
+				<li>Kata-dori Shiho-nage</li>
+				 				 				
+				<li>Gyakute-dori Kote-gaeshi</li>
+				 	         	
+	         	<li>Ushiro Ryote-dori Kote-gaeshi</li>
+				 				 	         	
+	         	<li>Ushiro Ryote-dori Kote-gaeshi (hands held together)</li>
+				 				 				 				
+				<li>Gyakute-dori Irimi-nage</li>
+				 				 				 				 				
+				<li>Yokomen-uchi Irimi-nage (ki-no-nagare)</li>
+				 				 				 				 				
+				<li>Ushiro Eri-tori Irimi-nage</li>
+				 				 				 				 				
+				<li>Mune-tsuki Kaiten-nage</li>
+				 				 				 				 				 				
+				<li>Low tackle Kaiten-nage</li>
+				 				 				 				 				 				
+				<li>Morote-dori Kokyu-nage (twisted)</li>
+				 				 				 				 				 				 				
+				<li>Morote-dori Kokyu-nage (pushed up)</li>
+				 				 				 				 				 				 				
+				<li>Morote-dori Kokyu-nage (held down)</li>
+				 				 				 				 				 				 				
+				<li>Sode-dori Kokyu-nage</li>
+				 				 				 				 				 				 				 				
+				<li>Sodeguchi-dori Kokyu-nage</li>
+				 				 				 				 				 				 				 				
+				<li>Katate-dori Kokyu-nage (oyo waza, two waza)</li>
+				 				 				 				 				 				 				 				
+				<li>Mae-geri Kokyu-nage</li>
+				 				 				 				 				 				 				 				
+				<li>Mune-dori Koshi-nage</li>
+				 				 				 				 				 				 				 				 				
+				<li>Gyakute-dori Koshi-nage (shiho-nage method)</li>
+				 				 				 				 				 				 				 				 				 				
+				<li>Yokomen-uchi Koshi-nage (shiho-nage method)</li>
+				 				 				 				 				 				 				 				 				
+				<li>Mune-dori Juji-nage</li>
+				 				 
+	         	<li>Jiyu-waza (hitori-no-kogeki)</li>
+				 				 
+	         	<li>Jiyu-waza (futari-no-kogeki, half speed, armed)</li>
+				 
+	         	<li>Jiyu-waza (san-nin-no-kogeki)</li>
+
+	         	<li>Ken-no-Riai
+
+	         		<ol type="a">
+	         			<li>Shiho-nage (omote)</li>
+
+	         			<li>Shiho-nage (ura)</li>
+
+	         			<li>Kote-gaeshi</li>
+	         		</ol>
+	         	</li>
+
+	         	<li>Ken-Tai-Jo Tai-sabaki
+
+	         		<ol type="a">
+	         			<li>Choku-barai</li>
+
+	         			<li>Kaeshi-barai</li>
+
+	         			<li>Kaiten-barai</li>
+	         		</ol>
+	         	</li>
+
+	         	<li>Ken-tai-jo (1-6, naganai and nageru)</li>
+	         </ol>
+	   </ouc:div>
+	</content>
+
+</page>
